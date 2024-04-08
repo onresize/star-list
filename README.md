@@ -30,6 +30,8 @@
 
 ## JavaScript
 
+*   [micku7zu/vanilla-tilt.js](https://github.com/micku7zu/vanilla-tilt.js) - A smooth 3D tilt javascript library.
+
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 
 *   [ccallcn/ovsyunlive](https://github.com/ccallcn/ovsyunlive) - 网页播放rtsp，Web直播rtmp推流，Web直接rtsp/rtmp播放免插件，电子游戏直播，桌面远程控制，游戏远控，H5视频会议，MCU/SFU视频会议，会议直播，rtsp监控，视频对讲，Ｗeb推流，flv播放器，Web桌面直播，ws流拉流转发，web无插件监控，rtsp-Web监控,低延时解决方案，支持http-flv,ws-flv,直播录播,多通道流转发工具，Gb28181监控直播，Webrtc推流，Webrtc直播，Webrtc播放
@@ -147,8 +149,6 @@
 *   [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
 
 *   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
-
-*   [micku7zu/vanilla-tilt.js](https://github.com/micku7zu/vanilla-tilt.js) - A smooth 3D tilt javascript library.
 
 *   [helijun/documents](https://github.com/helijun/documents) - 个人的一些暂存文件
 
