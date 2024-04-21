@@ -29,6 +29,8 @@
 
 ## TypeScript
 
+*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
+
 *   [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 
 *   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -128,6 +130,8 @@
 *   [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架
 
 ## JavaScript
+
+*   [HondryTravis/xs-docs](https://github.com/HondryTravis/xs-docs) - 这是 x-spreadsheet 的文档库，同步更新
 
 *   [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 
@@ -303,8 +307,6 @@
 
 *   [xxlllq/pdf2img](https://github.com/xxlllq/pdf2img) - convert pdf to img，使用JS将PDF转换为图片，支持整图下载和多图压缩包下载，可直接在线查看demo。如有疑问，可通过个人主页邮箱联系。
 
-*   [lavas-project/vue-skeleton-webpack-plugin](https://github.com/lavas-project/vue-skeleton-webpack-plugin) - Lavas webpack plugin: skeleton solution for PWA webshell
-
 ## Go
 
 *   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
@@ -378,8 +380,6 @@
 *   [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的、全端兼容的、高性能UI框架
 
 *   [cloudhao1999/cloud-app-admin](https://github.com/cloudhao1999/cloud-app-admin) - cloud-app-admin 使用了最新的 Vue3.2 + Vite3 + Element-Plus + TypeScript 等主流技术开发。
-
-*   [likaia/chat-system](https://github.com/likaia/chat-system) - 本项目是一个在线聊天系统，最大程度的还原了Mac客户端QQ。
 
 ## Java
 
