@@ -9,8 +9,8 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [Vue](#vue)
+*   [Rust](#rust)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
@@ -30,19 +30,9 @@
 *   [C](#c-2)
 *   [Thanks](#thanks)
 
-## Rust
-
-*   [MicroCBer/BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer) - 一键安装 Better 系软件
-
-*   [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-
-*   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
-*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
-
 ## Vue
+
+*   [chenxuan0000/vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) -  :beginner:A simple, seamless scrolling for Vue.js  vue无缝滚动component
 
 *   [Hyk260/PureChat](https://github.com/Hyk260/PureChat) - 基于 Vue3、Electron、Element-Plus 的清新优雅的聊天工作室(腾讯 IM 即时通讯) 用于学习参考，集成 ChatGPT(openai)
 
@@ -113,6 +103,18 @@
 *   [javaSunson/vuevideo-player](https://github.com/javaSunson/vuevideo-player) - Vue集成videojs.可以直接播放m3u8
 
 *   [xrkffgg/Kvue](https://github.com/xrkffgg/Kvue) - 📚 Keep coding
+
+## Rust
+
+*   [MicroCBer/BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer) - 一键安装 Better 系软件
+
+*   [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
+
+*   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 
 ## HTML
 
@@ -288,7 +290,7 @@
 
 *   [syl22-00/pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) - Speech recognition in JavaScript and WebAssembly
 
-*   [TalAter/annyang](https://github.com/TalAter/annyang) - :speech\_balloon: Speech recognition for your site
+*   [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
 
 *   [web-push-libs/web-push](https://github.com/web-push-libs/web-push) - Web Push library for Node.js
 
@@ -536,8 +538,6 @@
 
 *   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
-*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
-
 ## miscellaneous
 
 *   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -548,7 +548,7 @@
 
 *   [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
 
-*   [houyushan/telegram-groups-search](https://github.com/houyushan/telegram-groups-search) - telegram群组，TG群组，电报群组 ： 已更新到10000+个 Telegram群 Telegram频道 电报群 电报频道 精选电报群 精选电报频道 优秀电报群 优秀电报频道，telegram groups search 电报群组搜索 电报群组推荐 电报频道搜索 电报频道推荐，如果有更多好玩的telegram群，欢迎在https://t.me/hmnana 内提交和获取更多优秀群组。持续更新中。。。
+*   [houyushan/telegram-groups-search](https://github.com/houyushan/telegram-groups-search) - telegram群组，TG群组，电报群组 ： 已更新到14000+个 Telegram群 Telegram频道 电报群 电报频道 精选电报群 精选电报频道 优秀电报群 优秀电报频道，telegram groups search 电报群组搜索 电报群组推荐 电报频道搜索 电报频道推荐，如果有更多好玩的telegram群，欢迎在https://t.me/hmnana 内提交和获取更多优秀群组。持续更新中。。。
 
 *   [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 
