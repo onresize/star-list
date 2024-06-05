@@ -83,7 +83,7 @@
 
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 
-*   [ccallcn/ovsyunlive](https://github.com/ccallcn/ovsyunlive) - 网页播放rtsp,Web直播rtmp推流,Web直接rtsp/rtmp播放免插件,电子游戏直播,桌面远程控制,游戏远控,视频会议,MCU/SFU视频会议,会议直播,rtsp监控,视频对讲,Ｗeb推流,flv播放器,Web桌面直播,ws流拉流转发,web无插件监控,rtsp-Web监控,网页视频会议,支持http-flv,ws-flv,直播录播,多通道流转发工具,Gb28181监控直播,Webrtc推流,Webrtc直播,Webrtc播放
+*   [ccallcn/ovsyunlive](https://github.com/ccallcn/ovsyunlive) - 网页播放rtsp,Web直播rtmp推流,Web直接rtsp/rtmp播放免插件,电子游戏直播,桌面远程控制,游戏远控,视频会议,MCU/SFU视频会议,会议直播,rtsp监控,视频对讲,Ｗeb推流,flv播放器,Web桌面直播,ws流拉流转发,web无插件监控,rtsp-Web监控,网页视频会议,支持http-flv,ws-flv,直播录播,多通道流转发工具,Gb28181监控直播,Webrtc推流,Webrtc直播,Webrtc播放、远程医疗、视频安全帽、机顶盒
 
 *   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
