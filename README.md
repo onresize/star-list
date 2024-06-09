@@ -31,6 +31,8 @@
 
 ## JavaScript
 
+*   [weijun-lab/region-screenshot-js](https://github.com/weijun-lab/region-screenshot-js) - A web-based selection screenshot plugin that helps you quickly build a beautiful and functional screenshot selection feature. / 一个web端选区截图插件，帮助你快速构建出精美的选区截图功能。
+
 *   [pissang/little-big-city](https://github.com/pissang/little-big-city) -
 
 *   [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
@@ -270,8 +272,6 @@
 *   [umijs/sula-real](https://github.com/umijs/sula-real) - 🎉   Use sula in real.
 
 *   [wobudapai/JsBox](https://github.com/wobudapai/JsBox) - 采用Vue+nodejs实现的在线Js编辑器
-
-*   [dailymotion/hls.js](https://github.com/dailymotion/hls.js) - JavaScript HLS client using Media Source Extension
 
 ## miscellaneous
 
