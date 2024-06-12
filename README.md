@@ -471,7 +471,7 @@
 
 *   [chenxuan0000/vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) -  :beginner:A simple, seamless scrolling for Vue.js  vue无缝滚动component
 
-*   [Hyk260/PureChat](https://github.com/Hyk260/PureChat) - 基于 Vue3、Electron、Element-Plus 的清新优雅的聊天工作室(腾讯 IM 即时通讯) 用于学习参考，集成 ChatGPT(openai)
+*   [Hyk260/PureChat](https://github.com/Hyk260/PureChat) - 基于 Vue3、Vite5、Element-Plus 开发的聊天工作室(腾讯 IM 即时通讯) 用于学习参考，集成 ChatGPT(openai)
 
 *   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 
