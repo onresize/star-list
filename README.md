@@ -9,6 +9,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
@@ -23,13 +24,22 @@
 *   [PHP](#php)
 *   [Smarty](#smarty)
 *   [Python](#python)
-*   [CSS](#css)
 *   [C#](#c-1)
 *   [Kotlin](#kotlin)
 *   [Less](#less)
 *   [Thanks](#thanks)
 
+## CSS
+
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+
+*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
+
+*   [samsularifin05/base-admin-lte-react-ts-vitejs](https://github.com/samsularifin05/base-admin-lte-react-ts-vitejs) - Admin Lte React (Ts,Vite, Redux, PWA)
+
 ## JavaScript
+
+*   [chokcoco/httphijack](https://github.com/chokcoco/httphijack) - 使用Javascript实现前端防御http劫持及防御XSS攻击，并且对可疑攻击进行上报
 
 *   [weijun-lab/region-screenshot-js](https://github.com/weijun-lab/region-screenshot-js) - A web-based selection screenshot plugin that helps you quickly build a beautiful and functional screenshot selection feature. / 一个web端选区截图插件，帮助你快速构建出精美的选区截图功能。
 
@@ -271,8 +281,6 @@
 
 *   [umijs/sula-real](https://github.com/umijs/sula-real) - 🎉   Use sula in real.
 
-*   [wobudapai/JsBox](https://github.com/wobudapai/JsBox) - 采用Vue+nodejs实现的在线Js编辑器
-
 ## miscellaneous
 
 *   [MrXujiang/frontend-developer-roadmap](https://github.com/MrXujiang/frontend-developer-roadmap) - 前端学习之路, 记录前端小白成长历程, 学习总结, 工具汇总, 打造开箱即用的学习体验
@@ -465,8 +473,6 @@
 
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
-*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-
 ## Vue
 
 *   [chenxuan0000/vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) -  :beginner:A simple, seamless scrolling for Vue.js  vue无缝滚动component
@@ -636,12 +642,6 @@
 *   [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 
 *   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
-## CSS
-
-*   [samsularifin05/base-admin-lte-react-ts-vitejs](https://github.com/samsularifin05/base-admin-lte-react-ts-vitejs) - Admin Lte React (Ts,Vite, Redux, PWA)
 
 ## C\#
 
