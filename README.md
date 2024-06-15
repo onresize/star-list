@@ -9,9 +9,9 @@
 
 ## Table of Contents
 
-*   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
+*   [CSS](#css)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Rust](#rust)
@@ -29,15 +29,11 @@
 *   [Less](#less)
 *   [Thanks](#thanks)
 
-## CSS
-
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-
-*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
-
-*   [samsularifin05/base-admin-lte-react-ts-vitejs](https://github.com/samsularifin05/base-admin-lte-react-ts-vitejs) - Admin Lte React (Ts,Vite, Redux, PWA)
-
 ## JavaScript
+
+*   [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
+
+*   [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 
 *   [chokcoco/httphijack](https://github.com/chokcoco/httphijack) - 使用Javascript实现前端防御http劫持及防御XSS攻击，并且对可疑攻击进行上报
 
@@ -279,9 +275,9 @@
 
 *   [Hzy0913/Timetable](https://github.com/Hzy0913/Timetable) - 📆 timetables.js plugin, timetable schedule school-timetable 课程表 大学课表 日程表 插件
 
-*   [umijs/sula-real](https://github.com/umijs/sula-real) - 🎉   Use sula in real.
-
 ## miscellaneous
+
+*   [frontend9/fe9-interview](https://github.com/frontend9/fe9-interview) - 前端九部 - 面试题库
 
 *   [MrXujiang/frontend-developer-roadmap](https://github.com/MrXujiang/frontend-developer-roadmap) - 前端学习之路, 记录前端小白成长历程, 学习总结, 工具汇总, 打造开箱即用的学习体验
 
@@ -312,6 +308,14 @@
 *   [Paladinfeng/MiaoProject](https://github.com/Paladinfeng/MiaoProject) - Miao Project Bug 反馈
 
 *   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+
+## CSS
+
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+
+*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
+
+*   [samsularifin05/base-admin-lte-react-ts-vitejs](https://github.com/samsularifin05/base-admin-lte-react-ts-vitejs) - Admin Lte React (Ts,Vite, Redux, PWA)
 
 ## TypeScript
 
@@ -470,8 +474,6 @@
 *   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
 *   [umijs/sula](https://github.com/umijs/sula) - 🚀  Pluggable enterprise-level configurable framework based on antd.
-
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
 ## Vue
 
@@ -640,8 +642,6 @@
 *   [yanglbme/gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages by GitHub Action | 无须人为干预，由 GitHub Action 自动部署 Gitee Pages
 
 *   [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
-
-*   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 
 ## C\#
 
