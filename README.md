@@ -31,6 +31,8 @@
 
 ## TypeScript
 
+*   [xfy520/vue3-seamless-scroll](https://github.com/xfy520/vue3-seamless-scroll) - Vue3.0 无缝滚动组件
+
 *   [fengtianxi001/MF-TurbineMonitor](https://github.com/fengtianxi001/MF-TurbineMonitor) - 🎖 3D风机可视化大屏
 
 *   [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
@@ -195,9 +197,9 @@
 
 *   [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 
-*   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-
 ## JavaScript
+
+*   [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 
 *   [hzzly/credit-bi-react](https://github.com/hzzly/credit-bi-react) - 🔥BI数据大屏的实践
 
@@ -440,8 +442,6 @@
 *   [xxlllq/pdf2img](https://github.com/xxlllq/pdf2img) - convert pdf to img，使用JS将PDF转换为图片，支持整图下载和多图压缩包下载，可直接在线查看demo。如有疑问，可通过个人主页邮箱联系。
 
 *   [lavas-project/vue-skeleton-webpack-plugin](https://github.com/lavas-project/vue-skeleton-webpack-plugin) - Lavas webpack plugin: skeleton solution for PWA webshell
-
-*   [robinvdvleuten/vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - 💾 Persist and rehydrate your Vuex state between page reloads.
 
 ## C
 
