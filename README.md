@@ -9,13 +9,13 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [C](#c)
 *   [Vue](#vue)
 *   [CSS](#css)
 *   [Shell](#shell)
-*   [miscellaneous](#miscellaneous)
 *   [SCSS](#scss)
 *   [Rust](#rust)
 *   [HTML](#html)
@@ -29,7 +29,41 @@
 *   [C#](#c-2)
 *   [Thanks](#thanks)
 
+## miscellaneous
+
+*   [zhukunpenglinyutong/notes](https://github.com/zhukunpenglinyutong/notes) - 👋  如果有一天我失忆了，忘记了所有的前端知识，我希望这个项目能让我很快掌握
+
+*   [v2net/id](https://github.com/v2net/id) - 苹果美区账号 APPLE ID 免费账号共享；注册苹果美区 Apple ID 帐号的终极指南；Shadowrocket小火箭 最新版在线安装
+
+*   [ssnhd/googlevoice](https://github.com/ssnhd/googlevoice) - 注册 Google Voice 号码详细步骤
+
+*   [lynkco01/mian-fan-qiang](https://github.com/lynkco01/mian-fan-qiang) - 各大机场免翻墙地址搜集，不定期更新。欢迎收藏，转发。
+
+*   [marsgis/mars3d](https://github.com/marsgis/mars3d) - 【Mars3D平台 】主仓库，包含所有开源仓库清单导航
+
+*   [vscodev/XArchiver](https://github.com/vscodev/XArchiver) - 🚀 基于大数据的压缩包密码破解软件
+
+*   [frontend9/fe9-interview](https://github.com/frontend9/fe9-interview) - 前端九部 - 面试题库
+
+*   [MrXujiang/frontend-developer-roadmap](https://github.com/MrXujiang/frontend-developer-roadmap) - 前端学习之路, 记录前端小白成长历程, 学习总结, 工具汇总, 打造开箱即用的学习体验
+
+*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+
+*   [gaboolic/vercel-reverse-proxy](https://github.com/gaboolic/vercel-reverse-proxy) - vercel反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|vercel万能代理
+
+*   [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
+
+*   [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
+
+*   [houyushan/telegram-groups-search](https://github.com/houyushan/telegram-groups-search) - telegram群组，TG群组，电报群组 ： 已更新到15000+个 Telegram群 Telegram频道 电报群 电报频道 精选电报群 精选电报频道 优秀电报群 优秀电报频道，telegram groups search 电报群组搜索 电报群组推荐 电报频道搜索 电报频道推荐，如果有更多好玩的telegram群，欢迎在https://t.me/hmnana 内提交和获取更多优秀群组。持续更新中。。。
+
+*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+
+*   [facebook/react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
+
 ## TypeScript
+
+*   [vue-vine/vue-vine](https://github.com/vue-vine/vue-vine) - Another style of writing Vue components.
 
 *   [xfy520/vue3-seamless-scroll](https://github.com/xfy520/vue3-seamless-scroll) - Vue3.0 无缝滚动组件
 
@@ -191,13 +225,9 @@
 
 *   [unplugin/unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) - Auto import APIs on-demand for Vite, Webpack and Rollup
 
-*   [unplugin/unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
-
-*   [antfu/vscode-where-am-i](https://github.com/antfu/vscode-where-am-i) - 📍 Don't get lost even you have multiple VS Code opened
-
-*   [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
-
 ## JavaScript
+
+*   [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 
 *   [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 
@@ -532,36 +562,6 @@
 *   [WindrunnerMax/EveryDay](https://github.com/WindrunnerMax/EveryDay) - 前端基础 个人博客 学习笔记
 
 *   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-
-## miscellaneous
-
-*   [v2net/id](https://github.com/v2net/id) - 苹果美区账号 APPLE ID 免费账号共享；注册苹果美区 Apple ID 帐号的终极指南；Shadowrocket小火箭 最新版在线安装
-
-*   [ssnhd/googlevoice](https://github.com/ssnhd/googlevoice) - 注册 Google Voice 号码详细步骤
-
-*   [lynkco01/mian-fan-qiang](https://github.com/lynkco01/mian-fan-qiang) - 各大机场免翻墙地址搜集，不定期更新。欢迎收藏，转发。
-
-*   [marsgis/mars3d](https://github.com/marsgis/mars3d) - 【Mars3D平台 】主仓库，包含所有开源仓库清单导航
-
-*   [vscodev/XArchiver](https://github.com/vscodev/XArchiver) - 🚀 基于大数据的压缩包密码破解软件
-
-*   [frontend9/fe9-interview](https://github.com/frontend9/fe9-interview) - 前端九部 - 面试题库
-
-*   [MrXujiang/frontend-developer-roadmap](https://github.com/MrXujiang/frontend-developer-roadmap) - 前端学习之路, 记录前端小白成长历程, 学习总结, 工具汇总, 打造开箱即用的学习体验
-
-*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-
-*   [gaboolic/vercel-reverse-proxy](https://github.com/gaboolic/vercel-reverse-proxy) - vercel反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|vercel万能代理
-
-*   [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
-
-*   [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
-
-*   [houyushan/telegram-groups-search](https://github.com/houyushan/telegram-groups-search) - telegram群组，TG群组，电报群组 ： 已更新到15000+个 Telegram群 Telegram频道 电报群 电报频道 精选电报群 精选电报频道 优秀电报群 优秀电报频道，telegram groups search 电报群组搜索 电报群组推荐 电报频道搜索 电报频道推荐，如果有更多好玩的telegram群，欢迎在https://t.me/hmnana 内提交和获取更多优秀群组。持续更新中。。。
-
-*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-
-*   [facebook/react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
 
 ## SCSS
 
