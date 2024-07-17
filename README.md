@@ -465,7 +465,7 @@
 
 *   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 
-*   [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+*   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 
 *   [zero-one-code/vue-default-page](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 custom directives plugin
 
