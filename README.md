@@ -31,6 +31,8 @@
 
 ## JavaScript
 
+*   [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
+
 *   [patorjk/figlet.js](https://github.com/patorjk/figlet.js) - A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
 
 *   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -270,8 +272,6 @@
 *   [noiron/socket-message-push](https://github.com/noiron/socket-message-push) -
 
 *   [826327700/vue-photo-preview](https://github.com/826327700/vue-photo-preview) - 基于photoswipe的vue图片预览组件
-
-*   [staven630/vue-cli4-config](https://github.com/staven630/vue-cli4-config) - vue-cli4配置vue.config.js持续更新
 
 ## TypeScript
 
