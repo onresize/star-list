@@ -9,11 +9,11 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [Java](#java)
-*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [C](#c)
 *   [CSS](#css)
@@ -30,6 +30,42 @@
 *   [Kotlin](#kotlin)
 *   [Less](#less)
 *   [Thanks](#thanks)
+
+## HTML
+
+*   [qwd/Icons](https://github.com/qwd/Icons) - 和风天气开源图标字体库 Open source weather icons && fonts for QWeather
+
+*   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
+
+*   [pandaoh/js-xxx](https://github.com/pandaoh/js-xxx) - \[ http://x.biugle.cn ] Fed JavaScript Function Library. 前端 JavaScript 常用函数/工具/方法库，支持按需引入，方便抽离工具类等常用方法。
+
+*   [xy-sea/blog](https://github.com/xy-sea/blog) - 博客：前端知识体系、前端监控、性能优化、原理探索、面经等
+
+*   [anan1213095357/Blueprint](https://github.com/anan1213095357/Blueprint) -
+
+*   [ecomfe/fontmin-app](https://github.com/ecomfe/fontmin-app) - fontmin as an OS X, Linux and Windows app
+
+*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客--fork走内容却不更改，太烦了，此处将不再更新内容。若要浏览新内容，请到下边博客。
+
+*   [dev-zuo/chatgpt-node-vue3](https://github.com/dev-zuo/chatgpt-node-vue3) - Vue3 + Node.js 调用 OpenAI API 实现 chatgpt、生成图片 demo
+
+*   [dev-zuo/zuo-deploy](https://github.com/dev-zuo/zuo-deploy) - 基于 Vue3 + Node.js 的轻量 Linux 操作面板，支持简单实时终端、自动化部署、持续集成、Nginx 配置管理/操作、Https 证书管理等。
+
+*   [tzy13755126023/tzy13755126023.github.io](https://github.com/tzy13755126023/tzy13755126023.github.io) -
+
+*   [wanglin2/markdown\_editor\_sync\_scroll\_demo](https://github.com/wanglin2/markdown_editor_sync_scroll_demo) - Markdown编辑器精确同步滚动demo
+
+*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+
+*   [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡打印设计、可视化、标签打印、编辑器、设计器、数据分析、报表设计、组件化、表单设计、h5页面、调查问卷、pdf生成、流程图、试卷、SVG、图形元素、物联网、标签纸
+
+*   [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
+
+*   [sunzsh/st-html-demo](https://github.com/sunzsh/st-html-demo) -
+
+*   [it-andy-hou/fq](https://github.com/it-andy-hou/fq) - :earth\_americas: :statue\_of\_liberty: 翻墙软件不完全汇总
+
+*   [Thobian/typora-plugins-win-img](https://github.com/Thobian/typora-plugins-win-img) - 解决windows，typora不支持粘贴自动上传图片到服务的问题。
 
 ## TypeScript
 
@@ -85,7 +121,7 @@
 
 *   [revezone/revezone](https://github.com/revezone/revezone) - A lightweight local-first graphic-centric  productivity tool to build your second brain. Supporting Excalidraw/Tldraw whiteboard and notion-like note. 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具。支持 Excalidraw、Tldraw 白板和类 Notion 笔记。
 
-*   [joeymalvinni/webrtc-ip](https://github.com/joeymalvinni/webrtc-ip) - 💻 Simplified IP client using WebRTC.
+*   [joeymalvinni/webrtc-ip](https://github.com/joeymalvinni/webrtc-ip) - 🌐 Enhanced IP address querying with WebRTC
 
 *   [xy-sea/web-see](https://github.com/xy-sea/web-see) - 前端监控SDK，可用来收集并上报：代码报错、性能数据、页面录屏、用户行为、白屏检测等个性化指标数据
 
@@ -563,8 +599,6 @@
 
 *   [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 
-*   [MisterTaki/vue-table-with-tree-grid](https://github.com/MisterTaki/vue-table-with-tree-grid) - A table (with tree-grid) component for Vue.js 2.0. (Its style extends @iView)
-
 ## Vue
 
 *   [zhengjie9510/webgis-demo](https://github.com/zhengjie9510/webgis-demo) - Cesium demos
@@ -664,40 +698,6 @@
 *   [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-
-## HTML
-
-*   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
-
-*   [pandaoh/js-xxx](https://github.com/pandaoh/js-xxx) - \[ http://x.biugle.cn ] Fed JavaScript Function Library. 前端 JavaScript 常用函数/工具/方法库，支持按需引入，方便抽离工具类等常用方法。
-
-*   [xy-sea/blog](https://github.com/xy-sea/blog) - 博客：前端知识体系、前端监控、性能优化、原理探索、面经等
-
-*   [anan1213095357/Blueprint](https://github.com/anan1213095357/Blueprint) -
-
-*   [ecomfe/fontmin-app](https://github.com/ecomfe/fontmin-app) - fontmin as an OS X, Linux and Windows app
-
-*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客--fork走内容却不更改，太烦了，此处将不再更新内容。若要浏览新内容，请到下边博客。
-
-*   [dev-zuo/chatgpt-node-vue3](https://github.com/dev-zuo/chatgpt-node-vue3) - Vue3 + Node.js 调用 OpenAI API 实现 chatgpt、生成图片 demo
-
-*   [dev-zuo/zuo-deploy](https://github.com/dev-zuo/zuo-deploy) - 基于 Vue3 + Node.js 的轻量 Linux 操作面板，支持简单实时终端、自动化部署、持续集成、Nginx 配置管理/操作、Https 证书管理等。
-
-*   [tzy13755126023/tzy13755126023.github.io](https://github.com/tzy13755126023/tzy13755126023.github.io) -
-
-*   [wanglin2/markdown\_editor\_sync\_scroll\_demo](https://github.com/wanglin2/markdown_editor_sync_scroll_demo) - Markdown编辑器精确同步滚动demo
-
-*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
-
-*   [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡打印设计、可视化、标签打印、编辑器、设计器、数据分析、报表设计、组件化、表单设计、h5页面、调查问卷、pdf生成、流程图、试卷、SVG、图形元素、物联网、标签纸
-
-*   [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
-
-*   [sunzsh/st-html-demo](https://github.com/sunzsh/st-html-demo) -
-
-*   [it-andy-hou/fq](https://github.com/it-andy-hou/fq) - :earth\_americas: :statue\_of\_liberty: 翻墙软件不完全汇总
-
-*   [Thobian/typora-plugins-win-img](https://github.com/Thobian/typora-plugins-win-img) - 解决windows，typora不支持粘贴自动上传图片到服务的问题。
 
 ## miscellaneous
 
