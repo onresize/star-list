@@ -147,6 +147,8 @@
 
 *   [Steve245270533/react-three-egg](https://github.com/Steve245270533/react-three-egg) - 由r3f构建的第三人称闯关类游戏
 
+*   [zero-one-code/vue-default-page](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 custom directives plugin
+
 *   [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 
 *   [ant-design/pro-flow](https://github.com/ant-design/pro-flow) - 🪢 A React based Flow Framework, include Flow View and Flow Editor
@@ -624,8 +626,6 @@
 *   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 
 *   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
-
-*   [zero-one-code/vue-default-page](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 custom directives plugin
 
 *   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
