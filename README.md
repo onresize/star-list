@@ -33,6 +33,10 @@
 
 ## JavaScript
 
+*   [Sunny-117/mini-anything](https://github.com/Sunny-117/mini-anything) - 🚀 Explore the source code of the front-end library and implement a super mini version
+
+*   [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step
+
 *   [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 
 *   [sindresorhus/p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
@@ -566,10 +570,6 @@
 *   [surmon-china/videojs-player](https://github.com/surmon-china/videojs-player) - @videojs player component for @vuejs(3) and React.
 
 *   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
-
-*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-
-*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 
 ## miscellaneous
 
