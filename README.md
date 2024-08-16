@@ -33,6 +33,8 @@
 
 ## TypeScript
 
+*   [vueuse/sound](https://github.com/vueuse/sound) - 🔊 A Vue composable for playing sound effects
+
 *   [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 
 *   [zxcvbn-ts/zxcvbn](https://github.com/zxcvbn-ts/zxcvbn) - Low-Budget Password Strength Estimation
@@ -778,8 +780,6 @@
 *   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
 
 *   [samsularifin05/base-admin-lte-react-ts-vitejs](https://github.com/samsularifin05/base-admin-lte-react-ts-vitejs) - Admin Lte React (Ts,Vite, Redux, PWA)
-
-*   [xrkffgg/Ktools](https://github.com/xrkffgg/Ktools) - ⚒ One tool for help ⚒
 
 ## Shell
 
