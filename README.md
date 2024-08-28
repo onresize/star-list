@@ -33,6 +33,10 @@
 
 ## TypeScript
 
+*   [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+
+*   [GreatAuk/plugin-web-update-notification](https://github.com/GreatAuk/plugin-web-update-notification) - Detect webpage updates and notify user to reload. support Vite, Umijs, and Webpack.
+
 *   [milesj/emojibase](https://github.com/milesj/emojibase) - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.
 
 *   [ddiu8081/blive-message-listener](https://github.com/ddiu8081/blive-message-listener) - Bilibili live danmu listener with type.  类型友好的 Bilibili 直播间弹幕监听库。
@@ -631,8 +635,6 @@
 
 *   [wobudapai/JsBox](https://github.com/wobudapai/JsBox) - 采用Vue+nodejs实现的在线Js编辑器
 
-*   [dailymotion/hls.js](https://github.com/dailymotion/hls.js) - JavaScript HLS client using Media Source Extension
-
 ## Python
 
 *   [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、快手、虎牙、斗鱼、B站、小红书、pandatv、afreecatv、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、花椒、流星、Twitch等平台直播录制
@@ -642,8 +644,6 @@
 *   [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 
 *   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 ## HTML
 
