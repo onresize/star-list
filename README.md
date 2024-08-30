@@ -33,6 +33,8 @@
 
 ## JavaScript
 
+*   [rubentd/gifplayer](https://github.com/rubentd/gifplayer) - Customizable jquery plugin to play and stop animated gifs. Similar to 9gag's. Support for video formats
+
 *   [alibaba/anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
 
 *   [eduardolundgren/tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
@@ -350,8 +352,6 @@
 *   [Hzy0913/Timetable](https://github.com/Hzy0913/Timetable) - 📆 timetables.js plugin, timetable schedule school-timetable 课程表 大学课表 日程表 插件
 
 *   [umijs/sula-real](https://github.com/umijs/sula-real) - 🎉   Use sula in real.
-
-*   [wobudapai/JsBox](https://github.com/wobudapai/JsBox) - 采用Vue+nodejs实现的在线Js编辑器
 
 ## TypeScript
 
