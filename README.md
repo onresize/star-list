@@ -127,8 +127,6 @@
 
 *   [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag
 
-*   [Hyk260/PureChat](https://github.com/Hyk260/PureChat) - PureChat 是一个集成 ChatGPT 的聊天应用，基于 Vue3 ，Vite5，Electron开发
-
 *   [wangweianger/zanePerfor](https://github.com/wangweianger/zanePerfor) - 前端性能监控系统,消息队列,高可用,集群等相关架构
 
 *   [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar) -
@@ -698,6 +696,8 @@
 *   [themusecatcher/vue-amazing-ui](https://github.com/themusecatcher/vue-amazing-ui) - Vue3 + TypeScript + Vite + Less 开发的常用基础 UI 组件库！如果好用，记得来个 ⭐️⭐️ 哦 🫶🫶🫶
 
 *   [chenxuan0000/vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) -  :beginner:A simple, seamless scrolling for Vue.js  vue无缝滚动component
+
+*   [Hyk260/PureChat](https://github.com/Hyk260/PureChat) - PureChat 是一个集成 ChatGPT 的聊天应用，基于 Vue3 ，Vite5，Electron开发
 
 *   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 
