@@ -33,6 +33,8 @@
 
 ## JavaScript
 
+*   [lucagrulla/node-tail](https://github.com/lucagrulla/node-tail) - The zero dependency Node.js module for tailing a file
+
 *   [rubentd/gifplayer](https://github.com/rubentd/gifplayer) - Customizable jquery plugin to play and stop animated gifs. Similar to 9gag's. Support for video formats
 
 *   [alibaba/anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
@@ -640,8 +642,6 @@
 *   [yanglbme/gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages by GitHub Action | 无须人为干预，由 GitHub Action 自动部署 Gitee Pages
 
 *   [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
-
-*   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 
 ## HTML
 
