@@ -389,7 +389,7 @@
 
 *   [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 
-*   [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
+*   [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source productivity tool dev kit helping you integrate spreadsheets, docs and slides into your applications.
 
 *   [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 
@@ -501,7 +501,7 @@
 
 *   [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 
-*   [bytedance/bytemd](https://github.com/bytedance/bytemd) - ByteMD v1 repository
+*   [pd4d10/bytemd](https://github.com/pd4d10/bytemd) - ByteMD v1 repository
 
 *   [frontend-winter/react-admin-vite-antd5](https://github.com/frontend-winter/react-admin-vite-antd5) - 一个React+ Monorepo搭建的后台管理模板「admin template」，在线预览https://hzdjs.cn/react-admin-vite-antd5 ，采用react，react18，vite，vite3，antd，antd5.x，ts，typescript，redux，react-redux，@reduxjs/toolkit。支持vite生成动态路由，支持路由keepalive功能。代码简介，致力打造成一个标准的模版，可直接用于生产环境开发。
 
