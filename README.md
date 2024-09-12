@@ -9,13 +9,13 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Python](#python)
 *   [Dockerfile](#dockerfile)
 *   [Dart](#dart)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
-*   [C](#c)
 *   [HTML](#html)
 *   [Vue](#vue)
 *   [Java](#java)
@@ -32,6 +32,14 @@
 *   [Kotlin](#kotlin)
 *   [Less](#less)
 *   [Thanks](#thanks)
+
+## C
+
+*   [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca) - Jessibuca是一款开源的纯H5直播流播放器
+
+*   [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
+
+*   [zhongyang219/TrafficMonitorPlugins](https://github.com/zhongyang219/TrafficMonitorPlugins) - 用于TrafficMonitor的插件
 
 ## Python
 
@@ -642,14 +650,6 @@
 *   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
 
 *   [Paladinfeng/MiaoProject](https://github.com/Paladinfeng/MiaoProject) - Miao Project Bug 反馈
-
-*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-
-## C
-
-*   [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
-
-*   [zhongyang219/TrafficMonitorPlugins](https://github.com/zhongyang219/TrafficMonitorPlugins) - 用于TrafficMonitor的插件
 
 ## HTML
 
