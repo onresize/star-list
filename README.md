@@ -35,6 +35,8 @@
 
 ## JavaScript
 
+*   [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
+
 *   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 
 *   [lucagrulla/node-tail](https://github.com/lucagrulla/node-tail) - The zero dependency Node.js module for tailing a file
@@ -352,8 +354,6 @@
 *   [cenkai88/vue-svg-icon](https://github.com/cenkai88/vue-svg-icon) - a solution for multicolor svg icons in vue2.0 (vue2.0的可变彩色svg图标方案)
 
 *   [proYang/outils](https://github.com/proYang/outils) - :rocket: 前端业务代码工具库
-
-*   [lgf196/ant-simple-pro](https://github.com/lgf196/ant-simple-pro) - 简洁，美观，快速上手，支持3大框架(vue3.0,react,angular,typescript)；Concise, beautiful, quick to get started, support 3 big frameworks
 
 ## TypeScript
 
