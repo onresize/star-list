@@ -815,7 +815,7 @@
 
 *   [lihaoyun6/capXDR-plugins](https://github.com/lihaoyun6/capXDR-plugins) - capXDR截图模板仓库 / Plugins for capXDR
 
-*   [WindrunnerMax/EveryDay](https://github.com/WindrunnerMax/EveryDay) - 前端基础 个人博客 学习笔记
+*   [WindRunnerMax/EveryDay](https://github.com/WindRunnerMax/EveryDay) - 前端基础 个人博客 学习笔记
 
 *   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 
