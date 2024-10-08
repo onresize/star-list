@@ -35,6 +35,8 @@
 
 ## JavaScript
 
+*   [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
+
 *   [caoyu48/vue-g6-editor](https://github.com/caoyu48/vue-g6-editor) - vue+g6 3.0实现的editor 由于g6-editor不开源 自己撸了一个
 
 *   [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
@@ -107,7 +109,7 @@
 
 *   [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - 演示站现在可以免费使用ChatGPT对话和画图了。全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，账号等周边资源，欢迎进群交流，一切全免费。
 
-*   [hawk86104/icegl-three-vue-tres](https://github.com/hawk86104/icegl-three-vue-tres) - 🎉🎉🎊 一款让你的三维可视化项目快速落地の开源框架 🎊🎉🎉 永久开源，免费商用 【 three vue ts js 】
+*   [hawk86104/icegl-three-vue-tres](https://github.com/hawk86104/icegl-three-vue-tres) - An open-source framework that enables rapid implementation of your 3D visualization projects \[tres.js three.js vue3 ts]
 
 *   [CahierX/screen-visualization](https://github.com/CahierX/screen-visualization) - 大屏可视化，数据可视化，Echarts 可视化，3D 数据可视化，通过拖拽组件的方式完成大屏页面开发
 
@@ -786,8 +788,6 @@
 *   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 
 *   [slacrey/vue-aliplayer](https://github.com/slacrey/vue-aliplayer) - vue aliplayer
-
-*   [DataV-Team/DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 
 ## Java
 
