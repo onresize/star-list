@@ -509,7 +509,7 @@
 
 *   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 
-*   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
+*   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 
 *   [doggy8088/TampermonkeyUserscripts](https://github.com/doggy8088/TampermonkeyUserscripts) -
 
@@ -585,11 +585,11 @@
 
 *   [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
 
+*   [cenkai88/vue-svg-icon](https://github.com/cenkai88/vue-svg-icon) - a solution for multicolor svg icons in vue2.0 (vue2.0的可变彩色svg图标方案)
+
 ## miscellaneous
 
 *   [anaer/Sub](https://github.com/anaer/Sub) - 自用clash订阅链接
-
-*   [pigpigchacha/PigchaVPN](https://github.com/pigpigchacha/PigchaVPN) - 科学上网，上网加速，VPN工具，上网代理，浏览器代理，Git代理，控制台代理！！客户端下载！！！比shadowsocks , v2ray 更快的梯子/免费梯子/付费梯子 官网地址：https://pigpigchacha.github.io/officialsite
 
 *   [i2ii/i](https://github.com/i2ii/i) -
 
