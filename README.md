@@ -9,6 +9,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -18,7 +19,6 @@
 *   [Python](#python)
 *   [Dockerfile](#dockerfile)
 *   [Dart](#dart)
-*   [HTML](#html)
 *   [Vue](#vue)
 *   [Java](#java)
 *   [CSS](#css)
@@ -32,6 +32,42 @@
 *   [Kotlin](#kotlin)
 *   [Less](#less)
 *   [Thanks](#thanks)
+
+## HTML
+
+*   [formkit/drag-and-drop](https://github.com/formkit/drag-and-drop) -
+
+*   [qwd/Icons](https://github.com/qwd/Icons) - 和风天气开源图标字体库 Open source weather icons && fonts for QWeather
+
+*   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
+
+*   [pandaoh/js-xxx](https://github.com/pandaoh/js-xxx) - \[ http://x.biugle.cn ] Fed JavaScript Function Library. 前端 JavaScript 常用函数/工具/方法库，支持按需引入，方便抽离工具类等常用方法。
+
+*   [xy-sea/blog](https://github.com/xy-sea/blog) - 博客：前端知识体系、前端监控、性能优化、原理探索、面经等
+
+*   [gaboolic/vercel-reverse-proxy](https://github.com/gaboolic/vercel-reverse-proxy) - vercel反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|vercel万能代理
+
+*   [anan1213095357/Blueprint](https://github.com/anan1213095357/Blueprint) -
+
+*   [ecomfe/fontmin-app](https://github.com/ecomfe/fontmin-app) - fontmin as an OS X, Linux and Windows app
+
+*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客--fork走内容却不更改，太烦了，此处将不再更新内容。若要浏览新内容，请到下边博客。
+
+*   [dev-zuo/chatgpt-node-vue3](https://github.com/dev-zuo/chatgpt-node-vue3) - Vue3 + Node.js 调用 OpenAI API 实现 chatgpt、生成图片 demo
+
+*   [dev-zuo/zuo-deploy](https://github.com/dev-zuo/zuo-deploy) - 基于 Vue3 + Node.js 的轻量 Linux 操作面板，支持简单实时终端、自动化部署、持续集成、Nginx 配置管理/操作、Https 证书管理等。
+
+*   [tzy13755126023/tzy13755126023.github.io](https://github.com/tzy13755126023/tzy13755126023.github.io) -
+
+*   [wanglin2/markdown\_editor\_sync\_scroll\_demo](https://github.com/wanglin2/markdown_editor_sync_scroll_demo) - Markdown编辑器精确同步滚动demo
+
+*   [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡打印设计、可视化、标签打印、编辑器、设计器、数据分析、报表设计、组件化、表单设计、h5页面、调查问卷、pdf生成、流程图、试卷、SVG、图形元素、物联网、标签纸
+
+*   [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
+
+*   [sunzsh/st-html-demo](https://github.com/sunzsh/st-html-demo) -
+
+*   [EasyDarwin/EasyPlayer.js](https://github.com/EasyDarwin/EasyPlayer.js) - EasyPlayer.js H5播放器，是一款免费的能够同时支持HTTP、RTMP、HTTP-FLV、HLS（m3u8）直播与点播等多种协议，支持H.264、H.265、AAC等多种音视频编码格式，支持mse、asm、wasm等多种解码方式，支持Windows、Linux、Android、iOS全平台终端的H5播放器。EasyPlayer.js H5 Player support HTTP/RTMP/HTTP-FLV/HLS(m3u8) live streaming & vod streaming,support H.264/H.265/AAC video & audio codec,support mse/asm/wasm decode mode,support Windows/Linux/Android/iOS platform,EasyPlayer.js uses leading-edge technology.
 
 ## JavaScript
 
@@ -363,8 +399,6 @@
 
 *   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 
-*   [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
-
 ## TypeScript
 
 *   [MrXujiang/flowmix-flow](https://github.com/MrXujiang/flowmix-flow) - 一款基于react-flow的工作流编辑器
@@ -678,40 +712,6 @@
 ## Dart
 
 *   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
-
-## HTML
-
-*   [qwd/Icons](https://github.com/qwd/Icons) - 和风天气开源图标字体库 Open source weather icons && fonts for QWeather
-
-*   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
-
-*   [pandaoh/js-xxx](https://github.com/pandaoh/js-xxx) - \[ http://x.biugle.cn ] Fed JavaScript Function Library. 前端 JavaScript 常用函数/工具/方法库，支持按需引入，方便抽离工具类等常用方法。
-
-*   [xy-sea/blog](https://github.com/xy-sea/blog) - 博客：前端知识体系、前端监控、性能优化、原理探索、面经等
-
-*   [gaboolic/vercel-reverse-proxy](https://github.com/gaboolic/vercel-reverse-proxy) - vercel反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|vercel万能代理
-
-*   [anan1213095357/Blueprint](https://github.com/anan1213095357/Blueprint) -
-
-*   [ecomfe/fontmin-app](https://github.com/ecomfe/fontmin-app) - fontmin as an OS X, Linux and Windows app
-
-*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客--fork走内容却不更改，太烦了，此处将不再更新内容。若要浏览新内容，请到下边博客。
-
-*   [dev-zuo/chatgpt-node-vue3](https://github.com/dev-zuo/chatgpt-node-vue3) - Vue3 + Node.js 调用 OpenAI API 实现 chatgpt、生成图片 demo
-
-*   [dev-zuo/zuo-deploy](https://github.com/dev-zuo/zuo-deploy) - 基于 Vue3 + Node.js 的轻量 Linux 操作面板，支持简单实时终端、自动化部署、持续集成、Nginx 配置管理/操作、Https 证书管理等。
-
-*   [tzy13755126023/tzy13755126023.github.io](https://github.com/tzy13755126023/tzy13755126023.github.io) -
-
-*   [wanglin2/markdown\_editor\_sync\_scroll\_demo](https://github.com/wanglin2/markdown_editor_sync_scroll_demo) - Markdown编辑器精确同步滚动demo
-
-*   [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡打印设计、可视化、标签打印、编辑器、设计器、数据分析、报表设计、组件化、表单设计、h5页面、调查问卷、pdf生成、流程图、试卷、SVG、图形元素、物联网、标签纸
-
-*   [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
-
-*   [sunzsh/st-html-demo](https://github.com/sunzsh/st-html-demo) -
-
-*   [EasyDarwin/EasyPlayer.js](https://github.com/EasyDarwin/EasyPlayer.js) - EasyPlayer.js H5播放器，是一款免费的能够同时支持HTTP、RTMP、HTTP-FLV、HLS（m3u8）直播与点播等多种协议，支持H.264、H.265、AAC等多种音视频编码格式，支持mse、asm、wasm等多种解码方式，支持Windows、Linux、Android、iOS全平台终端的H5播放器。EasyPlayer.js H5 Player support HTTP/RTMP/HTTP-FLV/HLS(m3u8) live streaming & vod streaming,support H.264/H.265/AAC video & audio codec,support mse/asm/wasm decode mode,support Windows/Linux/Android/iOS platform,EasyPlayer.js uses leading-edge technology.
 
 ## Vue
 
