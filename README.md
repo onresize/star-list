@@ -51,8 +51,6 @@
 
 *   [ecomfe/fontmin-app](https://github.com/ecomfe/fontmin-app) - fontmin as an OS X, Linux and Windows app
 
-*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客--fork走内容却不更改，太烦了，此处将不再更新内容。若要浏览新内容，请到下边博客。
-
 *   [dev-zuo/chatgpt-node-vue3](https://github.com/dev-zuo/chatgpt-node-vue3) - Vue3 + Node.js 调用 OpenAI API 实现 chatgpt、生成图片 demo
 
 *   [dev-zuo/zuo-deploy](https://github.com/dev-zuo/zuo-deploy) - 基于 Vue3 + Node.js 的轻量 Linux 操作面板，支持简单实时终端、自动化部署、持续集成、Nginx 配置管理/操作、Https 证书管理等。
@@ -398,6 +396,8 @@
 *   [JeremyHeleine/Photo-Sphere-Viewer](https://github.com/JeremyHeleine/Photo-Sphere-Viewer) - A JavaScript library to display Photo Sphere panoramas.
 
 *   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
+
+*   [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
 
 ## TypeScript
 
