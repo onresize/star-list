@@ -491,7 +491,7 @@
 
 *   [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 
-*   [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - Click the dom on the page, it will open your IDE and position the cursor to the source code location of the dom.
+*   [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - 🚀 Click the dom to open your IDE and position the cursor at dom's source code location! 点击页面 dom 来打开 IDE 并将光标自动定位到源代码位置!
 
 *   [LuciferHuang/heimdallr-sdk](https://github.com/LuciferHuang/heimdallr-sdk) - A lightweight front-end monitoring sdk/一款简单易用、轻量化、插件化的前端监控sdk
 
