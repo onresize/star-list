@@ -35,6 +35,8 @@
 
 ## Vue
 
+*   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
+
 *   [sunwenxu1997/sunwenxu1997.github.io](https://github.com/sunwenxu1997/sunwenxu1997.github.io) - 页面效果，动画，插件使用等
 
 *   [zhengjie9510/webgis-demo](https://github.com/zhengjie9510/webgis-demo) - Cesium demos
@@ -110,6 +112,8 @@
 *   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 
 ## JavaScript
+
+*   [forhadulislam/letterize.js](https://github.com/forhadulislam/letterize.js) - leterrize.js is a lightweight and pure JavaScript library
 
 *   [typsusan/effet](https://github.com/typsusan/effet) - effet.js 是一个轻量级的人脸样式框架，专注于为网页带来生动的面部动画效果。通过简单的API，开发者可以轻松实现眨眼、张嘴、摇头等动态表情，使用户界面更加互动和生动。effet.js 适用于需要增强用户体验的各种应用场景，特别是在前端项目中集成复杂的人脸动态效果。
 
@@ -435,8 +439,6 @@
 
 *   [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 
-*   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-
 ## TypeScript
 
 *   [jp-liu/fit-screen](https://github.com/jp-liu/fit-screen) - Scale-based large-screen adaptive solution
@@ -698,8 +700,6 @@
 *   [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
 
 *   [sunzsh/st-html-demo](https://github.com/sunzsh/st-html-demo) -
-
-*   [EasyDarwin/EasyPlayer.js](https://github.com/EasyDarwin/EasyPlayer.js) - EasyPlayer.js H5播放器，是一款免费的能够同时支持HTTP、RTMP、HTTP-FLV、HLS（m3u8）直播与点播等多种协议，支持H.264、H.265、AAC等多种音视频编码格式，支持mse、asm、wasm等多种解码方式，支持Windows、Linux、Android、iOS全平台终端的H5播放器。EasyPlayer.js H5 Player support HTTP/RTMP/HTTP-FLV/HLS(m3u8) live streaming & vod streaming,support H.264/H.265/AAC video & audio codec,support mse/asm/wasm decode mode,support Windows/Linux/Android/iOS platform,EasyPlayer.js uses leading-edge technology.
 
 ## miscellaneous
 
