@@ -253,8 +253,6 @@
 
 *   [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 
-*   [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
-
 *   [wll8/mockm](https://github.com/wll8/mockm) - 一个基于 express 的工具。它可以快速生成 api 以及创造数据，开箱即用，便于部署。A framework based on Express. It can quickly generate APIs and create data, ready for deployment out of the box.
 
 *   [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iFrames sized to their content.
@@ -702,6 +700,8 @@
 *   [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
 
 *   [sunzsh/st-html-demo](https://github.com/sunzsh/st-html-demo) -
+
+*   [EasyDarwin/EasyPlayer.js](https://github.com/EasyDarwin/EasyPlayer.js) - EasyPlayer.js H5播放器，是一款免费的能够同时支持HTTP、RTMP、HTTP-FLV、HLS（m3u8）直播与点播等多种协议，支持H.264、H.265、AAC等多种音视频编码格式，支持mse、asm、wasm等多种解码方式，支持Windows、Linux、Android、iOS全平台终端的H5播放器。EasyPlayer.js H5 Player support HTTP/RTMP/HTTP-FLV/HLS(m3u8) live streaming & vod streaming,support H.264/H.265/AAC video & audio codec,support mse/asm/wasm decode mode,support Windows/Linux/Android/iOS platform,EasyPlayer.js uses leading-edge technology.
 
 ## miscellaneous
 
