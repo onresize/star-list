@@ -751,7 +751,7 @@
 
 *   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and v2fly core and others
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and others
 
 *   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 
