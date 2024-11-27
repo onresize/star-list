@@ -537,7 +537,7 @@
 
 *   [LuciferHuang/heimdallr-sdk](https://github.com/LuciferHuang/heimdallr-sdk) - A lightweight front-end monitoring sdk/一款简单易用、轻量化、插件化的前端监控sdk
 
-*   [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+*   [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 
 *   [murongg/vue3-lazyload](https://github.com/murongg/vue3-lazyload) - A Vue3.x image lazyload plugin
 
