@@ -597,7 +597,7 @@
 
 *   [pd4d10/bytemd](https://github.com/pd4d10/bytemd) - ByteMD v1 repository
 
-*   [frontend-winter/react-admin-vite-antd5](https://github.com/frontend-winter/react-admin-vite-antd5) - 一个React+ Monorepo搭建的后台管理模板「admin template」，在线预览https://hzdjs.cn/react-admin-vite-antd5 ，采用react，react18，vite，vite3，antd，antd5.x，ts，typescript，redux，react-redux，@reduxjs/toolkit。支持vite生成动态路由，支持路由keepalive功能。代码简介，致力打造成一个标准的模版，可直接用于生产环境开发。
+*   [frontend-winter/react-admin-vite-antd5](https://github.com/frontend-winter/react-admin-vite-antd5) - 一个React+ Monorepo搭建的后台管理模板「admin template」，在线预览https://aisean.cn/react-admin-vite-antd5 ，采用react，react18，vite，vite3，antd，antd5.x，ts，typescript，redux，react-redux，@reduxjs/toolkit。支持vite生成动态路由，支持路由keepalive功能。代码简介，致力打造成一个标准的模版，可直接用于生产环境开发。
 
 *   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 
