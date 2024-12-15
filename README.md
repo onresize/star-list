@@ -34,6 +34,8 @@
 
 ## Vue
 
+*   [chansee97/nova-admin](https://github.com/chansee97/nova-admin) - A simple and flexible admin template based on Vue3, Vite, TypeScript, NaiveUI
+
 *   [ahua666/tuniaoUI](https://github.com/ahua666/tuniaoUI) - 图鸟UI，基于uni-app进行开发，提供丰富的组件进行快速开发，已经支持H5和微信小程序，包含常用表单组件、信息展示组件等，并提供丰富的酷炫页面模板。
 
 *   [DWHengr/linyu-admin-web](https://github.com/DWHengr/linyu-admin-web) - im system admin
@@ -695,8 +697,6 @@
 *   [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 
 *   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-
-*   [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code in one click
 
 ## HTML
 
