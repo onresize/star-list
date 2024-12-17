@@ -29,10 +29,11 @@
 *   [Ruby](#ruby)
 *   [PHP](#php)
 *   [Smarty](#smarty)
-*   [Kotlin](#kotlin)
 *   [Thanks](#thanks)
 
 ## Vue
+
+*   [gausszhou/vue3-drag-resize-rotate](https://github.com/gausszhou/vue3-drag-resize-rotate) - 一个Vue3.0组件，支持拖拽，拉伸，旋转，放缩，自动对齐；A Component for Vue.js 3.0;
 
 *   [chansee97/nova-admin](https://github.com/chansee97/nova-admin) - A simple and flexible admin template based on Vue3, Vite, TypeScript, NaiveUI
 
@@ -869,10 +870,6 @@
 ## Smarty
 
 *   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 525 个。
-
-## Kotlin
-
-*   [running-libo/Tiktok](https://github.com/running-libo/Tiktok) - 高仿抖音APP
 
 ## Thanks
 
