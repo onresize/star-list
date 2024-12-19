@@ -33,6 +33,8 @@
 
 ## JavaScript
 
+*   [Aymkdn/html-to-pdfmake](https://github.com/Aymkdn/html-to-pdfmake) - This module permits to convert HTML to the PDFMake format
+
 *   [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
 
 *   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
@@ -357,6 +359,8 @@
 
 ## Vue
 
+*   [SXX19950910/manifest-design](https://github.com/SXX19950910/manifest-design) - vue开发的商品标签设计插件 && 系统，功能包含：设计，预览，打印
+
 *   [gausszhou/vue3-drag-resize-rotate](https://github.com/gausszhou/vue3-drag-resize-rotate) - 一个Vue3.0组件，支持拖拽，拉伸，旋转，放缩，自动对齐；A Component for Vue.js 3.0;
 
 *   [chansee97/nova-admin](https://github.com/chansee97/nova-admin) - A simple and flexible admin template based on Vue3, Vite, TypeScript, NaiveUI
@@ -383,7 +387,7 @@
 
 *   [hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）
 
-*   [themusecatcher/vue-amazing-ui](https://github.com/themusecatcher/vue-amazing-ui) - Vue3 + TypeScript + Vite + Less 开发的常用基础 UI 组件库！如果好用，记得来颗 ⭐️⭐️ 哦 🫶🫶🫶
+*   [themusecatcher/vue-amazing-ui](https://github.com/themusecatcher/vue-amazing-ui) - 基于 Vue3 + TypeScript + Vite 开发的常用基础 UI 组件库！所有组件均使用 TypeScript，且都是 SFC！支持 tree shaking！如果好用，记得来颗 ⭐️⭐️ 哦 🫶🫶🫶
 
 *   [chenxuan0000/vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) -  :beginner:A simple, seamless scrolling for Vue.js  vue无缝滚动component
 
@@ -771,8 +775,6 @@
 
 *   [facebook/react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
 
-*   [lxl0928/it\_blacklist\_company](https://github.com/lxl0928/it_blacklist_company) - 各主要城市的互联网公司黑名单
-
 ## C\#
 
 *   [HMBSbige/ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - Ship of Theseus
@@ -780,8 +782,6 @@
 *   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and sing-box-core and others
-
-*   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 
 ## C++
 
