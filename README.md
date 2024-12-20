@@ -33,6 +33,8 @@
 
 ## JavaScript
 
+*   [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
+
 *   [Aymkdn/html-to-pdfmake](https://github.com/Aymkdn/html-to-pdfmake) - This module permits to convert HTML to the PDFMake format
 
 *   [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
@@ -354,8 +356,6 @@
 *   [xxlllq/pdf2img](https://github.com/xxlllq/pdf2img) - convert pdf to img，使用JS将PDF转换为图片，支持整图下载和多图压缩包下载，可直接在线查看demo。如有疑问，可通过个人主页邮箱联系。
 
 *   [lavas-project/vue-skeleton-webpack-plugin](https://github.com/lavas-project/vue-skeleton-webpack-plugin) - Lavas webpack plugin: skeleton solution for PWA webshell
-
-*   [robinvdvleuten/vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - 💾 Persist and rehydrate your Vuex state between page reloads.
 
 ## Vue
 
