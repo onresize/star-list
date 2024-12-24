@@ -561,8 +561,6 @@
 
 *   [M-cheng-web/web-tracing](https://github.com/M-cheng-web/web-tracing) - 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段
 
-*   [dromara/newcar](https://github.com/dromara/newcar) - 🪢A modern animation engine for JavaScript ecosystem based on Skia (canvaskit-wasm)
-
 *   [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 
 *   [JamieCurnow/vue-clipboard3](https://github.com/JamieCurnow/vue-clipboard3) - Easily copy to clipboard in Vue 3
@@ -762,6 +760,8 @@
 *   [MrXujiang/frontend-developer-roadmap](https://github.com/MrXujiang/frontend-developer-roadmap) - 前端学习之路, 记录前端小白成长历程, 学习总结, 工具汇总, 打造开箱即用的学习体验
 
 *   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+
+*   [dromara/newcar](https://github.com/dromara/newcar) - 🖌️ \[WIP] Modern JavaScript Canvas Library
 
 *   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
 
