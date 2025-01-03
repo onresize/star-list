@@ -127,7 +127,7 @@
 
 *   [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - 演示站现在可以免费使用ChatGPT对话和画图了。全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，账号等周边资源，欢迎进群交流，一切全免费。
 
-*   [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - An open-source framework that enables rapid implementation of your 3D visualization projects \[tres.js three.js vue3 ts]
+*   [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - three+vue3\<tres> : An open-source framework that enables rapid implementation of your 3D visualization projects \[tres.js three.js vue3 ts]
 
 *   [CahierX/screen-visualization](https://github.com/CahierX/screen-visualization) - 大屏可视化，数据可视化，Echarts 可视化，3D 数据可视化，通过拖拽组件的方式完成大屏页面开发
 
