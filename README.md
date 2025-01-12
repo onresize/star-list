@@ -33,6 +33,8 @@
 
 ## JavaScript
 
+*   [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+
 *   [thednp/kute.js](https://github.com/thednp/kute.js) - KUTE.js is a JavaScript animation engine for modern browsers.
 
 *   [mumuy/widget-qrcode](https://github.com/mumuy/widget-qrcode) - 二维码组件 - 二维码插件/二维码美化/二维码库/二维码图片/QRCode tool/QRCode WebCompotent/QRCode Beautify
@@ -353,8 +355,6 @@
 
 *   [TCloudBase/WXSEVER-SMS](https://github.com/TCloudBase/WXSEVER-SMS) - 发送短信，并在外部浏览器拉起微信小程序的能力教程
 
-*   [sidorares/json-bigint](https://github.com/sidorares/json-bigint) - JSON.parse/stringify with bigints support
-
 ## TypeScript
 
 *   [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
@@ -661,7 +661,7 @@
 
 *   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 
-*   [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅源抓取最新前端技术文章并自动分类
+*   [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅最新前端技术文章并自动分类
 
 *   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
