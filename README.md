@@ -425,6 +425,8 @@
 
 *   [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 
+*   [ppchart/ppchart](https://github.com/ppchart/ppchart) - http://ppchart.com
+
 *   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 
 *   [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
@@ -634,8 +636,6 @@
 *   [xfy520/vue3-seamless-scroll](https://github.com/xfy520/vue3-seamless-scroll) - Vue3.0 无缝滚动组件
 
 *   [fengtianxi001/MF-TurbineMonitor](https://github.com/fengtianxi001/MF-TurbineMonitor) - 🍪  一个大型涡轮扇叶风力发电机数据大屏案例
-
-*   [ppchart/ppchart](https://github.com/ppchart/ppchart) - http://ppchart.com
 
 *   [zhousg/consult-patient-h5-vue3-ts-pinia-vant](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vue Router, Pinia, Composition API, TypeScript, Vant4, VueUse, Axios, SocketIO, PostCSS, ESlint, Prettier, Husky, Lint-staged, Mock, Amap, QQ Login, Alipay Sandbox, Eruda, CI/CD, Vercel, Mobile Project.
 
