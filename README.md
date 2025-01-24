@@ -317,8 +317,6 @@
 
 *   [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
 
-*   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
-
 *   [helijun/documents](https://github.com/helijun/documents) - 个人的一些暂存文件
 
 *   [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
@@ -556,6 +554,8 @@
 *   [unplugin/unplugin-vue-markdown](https://github.com/unplugin/unplugin-vue-markdown) - Compile Markdown to Vue component
 
 *   [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template) - 🌱 A ready-to-use mobile project base template built with the Vue3, Vant, and Vite. | 基于 Vue3、Vite5、TypeScript/JavaScript、Tailwindcss、Vant4，开箱即用的移动端项目基础模板
+
+*   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 
 *   [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer (WIP)
 
