@@ -351,6 +351,8 @@
 
 *   [TCloudBase/WXSEVER-SMS](https://github.com/TCloudBase/WXSEVER-SMS) - 发送短信，并在外部浏览器拉起微信小程序的能力教程
 
+*   [sidorares/json-bigint](https://github.com/sidorares/json-bigint) - JSON.parse/stringify with bigints support
+
 ## TypeScript
 
 *   [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
@@ -576,8 +578,6 @@
 *   [vbenjs/vite-plugin-imagemin](https://github.com/vbenjs/vite-plugin-imagemin) - A vite plugin for compressing image assets.
 
 *   [MMF-FE/vite-plugin-cdn-import](https://github.com/MMF-FE/vite-plugin-cdn-import) - Import modules from CDN with vite plugin
-
-*   [maqi1520/runjs.cool](https://github.com/maqi1520/runjs.cool) -
 
 *   [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架
 
