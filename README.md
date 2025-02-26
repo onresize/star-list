@@ -53,8 +53,6 @@
 
 *   [typsusan/effet](https://github.com/typsusan/effet) - effet.js 是一个轻量级的人脸样式框架，专注于为网页带来生动的面部动画效果。通过简单的API，开发者可以轻松实现眨眼、张嘴、摇头等动态表情，使用户界面更加互动和生动。effet.js 适用于需要增强用户体验的各种应用场景，特别是在前端项目中集成复杂的人脸动态效果。
 
-*   [Auto-Plugin/autofit.js](https://github.com/Auto-Plugin/autofit.js) - autofit.js 迄今为止最易用的自适应工具
-
 *   [gyrate/runcode](https://github.com/gyrate/runcode) - For online code demonstration
 
 *   [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
@@ -374,6 +372,8 @@
 *   [jp-liu/fit-screen](https://github.com/jp-liu/fit-screen) - Scale-based large-screen adaptive solution
 
 *   [Alfred-Skyblue/v-scale-screen](https://github.com/Alfred-Skyblue/v-scale-screen) - Vue large screen adaptive component vue大屏自适应组件
+
+*   [Auto-Plugin/autofit.js](https://github.com/Auto-Plugin/autofit.js) - autofit.js 迄今为止最易用的自适应工具
 
 *   [MrXujiang/flowmix-flow](https://github.com/MrXujiang/flowmix-flow) - 一款基于react-flow的工作流编辑器
 
