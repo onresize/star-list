@@ -93,7 +93,7 @@
 
 *   [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 
-*   [jiawanlong/Cesium-Examples](https://github.com/jiawanlong/Cesium-Examples) - CesiumJS2025年最新demos，200多个原生示例：自定义纹理、地形开挖、可视域分析、洪水淹没、缓冲分析、日照分析、方量分析、通透分析、剖面、单体化、视频融合、视频投射、雨雪雾、天空盒、场景出图、体积云、闪电、视锥体、雷达扫描、水波纹、动态扩散点、电子围栏、粒子效果、物理引擎、克里金、海流、大数据可视化、坐标转换、相机、飞行漫游、瓦片加载、xyz、tms、wms、wmts、天地图、高德、百度、wkt、shp、geojson、pbf、地形、entity、模型、海量数据、Primitive、gif、聚合、czml、字体图标、运动、3Dtiles、模型偏移、等等。。
+*   [jiawanlong/Cesium-Examples](https://github.com/jiawanlong/Cesium-Examples) - CesiumJS2025年最新Examples，200多个原生示例：自定义纹理、地形开挖、可视域分析、洪水淹没、缓冲分析、日照分析、方量分析、通透分析、剖面、单体化、视频融合、视频投射、雨雪雾、天空盒、场景出图、体积云、闪电、视锥体、雷达扫描、水波纹、动态扩散点、电子围栏、粒子效果、物理引擎、克里金、海流、大数据可视化、坐标转换、相机、飞行漫游、瓦片加载、xyz、tms、wms、wmts、天地图、高德、百度、wkt、shp、geojson、pbf、地形、entity、模型、海量数据、Primitive、gif、聚合、czml、字体图标、运动、3Dtiles、模型偏移、等等。。
 
 *   [holynova/gushi\_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 
