@@ -635,8 +635,6 @@
 
 *   [xfy520/vue3-seamless-scroll](https://github.com/xfy520/vue3-seamless-scroll) - Vue3.0 无缝滚动组件
 
-*   [fengtianxi001/MF-TurbineMonitor](https://github.com/fengtianxi001/MF-TurbineMonitor) - 🍪  一个大型涡轮扇叶风力发电机数据大屏案例
-
 *   [zhousg/consult-patient-h5-vue3-ts-pinia-vant](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vue Router, Pinia, Composition API, TypeScript, Vant4, VueUse, Axios, SocketIO, PostCSS, ESlint, Prettier, Husky, Lint-staged, Mock, Amap, QQ Login, Alipay Sandbox, Eruda, CI/CD, Vercel, Mobile Project.
 
 *   [M-cheng-web/web-tracing-examples-vue3](https://github.com/M-cheng-web/web-tracing-examples-vue3) - web-tracing 的示例项目（vue3版本）
@@ -732,6 +730,8 @@
 *   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
 
 *   [pandaoh/js-xxx](https://github.com/pandaoh/js-xxx) - \[ http://x.biugle.cn ] Fed JavaScript Function Library. 前端 JavaScript 常用函数/工具/方法库，支持按需引入，方便抽离工具类等常用方法。
+
+*   [fengtianxi001/MF-TurbineMonitor](https://github.com/fengtianxi001/MF-TurbineMonitor) - 🍪  一个大型涡轮扇叶风力发电机数据大屏案例
 
 *   [xy-sea/blog](https://github.com/xy-sea/blog) - 博客：前端知识体系、前端监控、性能优化、原理探索、面经等
 
