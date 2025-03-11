@@ -167,7 +167,7 @@
 
 *   [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag
 
-*   [Hyk260/PureChat](https://github.com/Hyk260/PureChat) - PureChat 是一款基于 Vue3 + ElementPlus，结合 AI 和前沿技术的聊天应用，内置OpenAI，Ollama，DeepSeek等大预言模型，支持 Markdown 渲染，聊天记录生成截图，主题切换，助力开发者快速掌握现代技术。
+*   [Hyk260/PureChat](https://github.com/Hyk260/PureChat) - PureChat 是一款基于 Vue3 + ElementPlus，结合 AI 和前沿技术的聊天应用，内置OpenAI，Ollama，DeepSeek等大语言模型，支持 Markdown 渲染，聊天记录生成截图，主题切换，助力开发者快速掌握现代技术。
 
 *   [wangweianger/zanePerfor](https://github.com/wangweianger/zanePerfor) - 前端性能监控系统,消息队列,高可用,集群等相关架构
 
