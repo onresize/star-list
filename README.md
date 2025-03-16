@@ -189,7 +189,7 @@
 
 *   [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 
-*   [wll8/mockm](https://github.com/wll8/mockm) - 一个基于 express 的工具。它可以快速生成 api 以及创造数据，开箱即用，便于部署。A framework based on Express. It can quickly generate APIs and create data, ready for deployment out of the box.
+*   [wll8/mockm](https://github.com/wll8/mockm) - 用于处理前端在接口环节中的各种问题，例如快速生成 api 以及创造数据、页面部署等，开箱即用，便于迁移。A framework based on Express. It can quickly generate APIs and create data, ready for deployment out of the box.
 
 *   [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iFrames sized to their content.
 
