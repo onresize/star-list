@@ -357,7 +357,7 @@
 
 *   [gruhn/vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes.
 
-*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
+*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
 
 *   [opentiny/tiny-editor](https://github.com/opentiny/tiny-editor) - TinyEditor is a rich text editor based on Quill 2.0, which extends rich modules and formats on the basis of Quill. It is powerful and out-of-the-box. TinyEditor 是一个基于 Quill 2.0 的富文本编辑器，在 Quill 基础上扩展了丰富的模块和格式，功能强大、开箱即用。
 
