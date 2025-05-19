@@ -11,6 +11,7 @@
 
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
+*   [Roff](#roff)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [Vue](#vue)
@@ -32,6 +33,8 @@
 *   [Thanks](#thanks)
 
 ## JavaScript
+
+*   [cv-cat/Spider\_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书全域运营解决方案
 
 *   [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 
@@ -345,13 +348,9 @@
 
 *   [YuniorZen/minicode-debug](https://github.com/YuniorZen/minicode-debug) - 微信小程序、公众号、H5等小的案例代码分享。
 
-*   [TCloudBase/WXSEVER-SMS](https://github.com/TCloudBase/WXSEVER-SMS) - 发送短信，并在外部浏览器拉起微信小程序的能力教程
-
-*   [sidorares/json-bigint](https://github.com/sidorares/json-bigint) - JSON.parse/stringify with bigints support
-
-*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-
 ## TypeScript
+
+*   [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) - 简洁美观的代理工具
 
 *   [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 
@@ -584,6 +583,10 @@
 *   [MMF-FE/vite-plugin-cdn-import](https://github.com/MMF-FE/vite-plugin-cdn-import) - Import modules from CDN with vite plugin
 
 *   [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架
+
+## Roff
+
+*   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ## Python
 
