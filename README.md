@@ -34,6 +34,8 @@
 
 ## JavaScript
 
+*   [CcSimple/vue-plugin-hiprint](https://github.com/CcSimple/vue-plugin-hiprint) - hiprint for Vue2/Vue3 ⚡打印、打印设计、可视化设计器、报表设计、元素编辑、可视化打印编辑
+
 *   [cv-cat/Spider\_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书全域运营解决方案
 
 *   [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -345,8 +347,6 @@
 *   [sunyongjian/blog](https://github.com/sunyongjian/blog) - 个人博客😝😋😄
 
 *   [wechat-miniprogram/miniprogram-demo](https://github.com/wechat-miniprogram/miniprogram-demo) - 微信小程序组件 / API / 云开发示例
-
-*   [YuniorZen/minicode-debug](https://github.com/YuniorZen/minicode-debug) - 微信小程序、公众号、H5等小的案例代码分享。
 
 ## TypeScript
 
