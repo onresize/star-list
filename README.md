@@ -9,8 +9,8 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [TypeScript](#typescript)
+*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [JavaScript](#javascript)
@@ -32,17 +32,9 @@
 *   [Smarty](#smarty)
 *   [Thanks](#thanks)
 
-## Shell
-
-*   [Netflixxp/N1HK1dabao](https://github.com/Netflixxp/N1HK1dabao) - 项目为自动打包N1和HK1（s905x3）盒子的固件，请勿fork，因为fork无法获取最新的固件，请收藏短网址https://jcnf.xyz/gj 获取最新固件版本
-
-*   [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
-
-*   [lihaoyun6/capXDR-plugins](https://github.com/lihaoyun6/capXDR-plugins) - capXDR截图模板仓库 / Plugins for capXDR
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-
 ## TypeScript
+
+*   [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - Flexible Node.js AI-assisted crawler library
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
@@ -280,6 +272,16 @@
 
 *   [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架
 
+## Shell
+
+*   [Netflixxp/N1HK1dabao](https://github.com/Netflixxp/N1HK1dabao) - 项目为自动打包N1和HK1（s905x3）盒子的固件，请勿fork，因为fork无法获取最新的固件，请收藏短网址https://jcnf.xyz/gj 获取最新固件版本
+
+*   [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
+
+*   [lihaoyun6/capXDR-plugins](https://github.com/lihaoyun6/capXDR-plugins) - capXDR截图模板仓库 / Plugins for capXDR
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+
 ## miscellaneous
 
 *   [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) -
@@ -323,8 +325,6 @@
 *   [houyushan/telegram-groups-search](https://github.com/houyushan/telegram-groups-search) - telegram群组，TG群组，电报群组 ： 已更新到15000+个 Telegram群 Telegram频道 电报群 电报频道 精选电报群 精选电报频道 优秀电报群 优秀电报频道，telegram groups search 电报群组搜索 电报群组推荐 电报频道搜索 电报频道推荐，如果有更多好玩的telegram群，欢迎在https://t.me/hmnana 内提交和获取更多优秀群组。持续更新中。。。
 
 *   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-
-*   [facebook/react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
 
 ## C\#
 
