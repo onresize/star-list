@@ -158,7 +158,7 @@
 
 *   [Steve245270533/react-three-egg](https://github.com/Steve245270533/react-three-egg) - 由r3f构建的第三人称闯关类游戏
 
-*   [zero-one-code/vue-default-page](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 custom directives plugin
+*   [ZeroOneJs/vue-default-page](https://github.com/ZeroOneJs/vue-default-page) - A Vue 3.0 custom directives plugin
 
 *   [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 
