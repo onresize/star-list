@@ -738,7 +738,7 @@
 
 *   [yeyan1996/file-upload](https://github.com/yeyan1996/file-upload) - A guide about how to upload and process large files (using Vue.js for frontend and Node.js for backend)
 
-*   [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.4、 Spring Cloud 2024、 OAuth2 . Give a star
+*   [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.5、 Spring Cloud 2025、 OAuth2 . Give a star
 
 *   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 
