@@ -498,7 +498,7 @@
 
 *   [wll8/mockm](https://github.com/wll8/mockm) - 用于处理前端在接口环节中的各种问题，例如快速生成 api 以及创造数据、页面部署等，开箱即用，便于迁移。A framework based on Express. It can quickly generate APIs and create data, ready for deployment out of the box.
 
-*   [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iframes sized to their content.
+*   [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iframes sized to their content
 
 *   [InhiblabCore/vue-hooks-plus-playground](https://github.com/InhiblabCore/vue-hooks-plus-playground) - VueHooks Plus  🛹 Playground
 
