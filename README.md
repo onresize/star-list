@@ -494,7 +494,7 @@
 
 *   [HondryTravis/xs-docs](https://github.com/HondryTravis/xs-docs) - 这是 x-spreadsheet 的文档库，同步更新
 
-*   [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
+*   [forwardemail/superagent](https://github.com/forwardemail/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 
 *   [wll8/mockm](https://github.com/wll8/mockm) - 用于处理前端在接口环节中的各种问题，例如快速生成 api 以及创造数据、页面部署等，开箱即用，便于迁移。A framework based on Express. It can quickly generate APIs and create data, ready for deployment out of the box.
 
