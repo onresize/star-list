@@ -126,8 +126,6 @@
 
 *   [fengtianxi001/MF-2.5DMap](https://github.com/fengtianxi001/MF-2.5DMap) - 🌵 一个通过geojson渲染2.5D地图案例
 
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-
 *   [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
 
 *   [antvis/G2](https://github.com/antvis/G2) - 📊 The concise and progressive visualization grammar.
@@ -457,6 +455,8 @@
 *   [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
 
 *   [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 
 *   [chokcoco/httphijack](https://github.com/chokcoco/httphijack) - 使用Javascript实现前端防御http劫持及防御XSS攻击，并且对可疑攻击进行上报
 
