@@ -388,8 +388,6 @@
 
 *   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 
-*   [Sunny-117/tiny-anything](https://github.com/Sunny-117/tiny-anything) - 🚀 Explore the source code of the front-end library and implement a super mini version 前端轮子库，包含框架及其周边生态、工具链、插件迷你源码实现
-
 *   [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step 前端手写题，一步步提升 JavaScript 编程水平
 
 *   [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
@@ -789,6 +787,8 @@
 ## HTML
 
 *   [formkit/drag-and-drop](https://github.com/formkit/drag-and-drop) -
+
+*   [Sunny-117/tiny-anything](https://github.com/Sunny-117/tiny-anything) - 🚀 Explore the source code of the front-end library and implement a super mini version 前端轮子库，包含框架及其周边生态、工具链、插件迷你源码实现
 
 *   [qwd/Icons](https://github.com/qwd/Icons) - 和风天气开源图标字体库 Open source weather icons && fonts for QWeather
 
