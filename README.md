@@ -538,8 +538,6 @@
 
 *   [CJY0208/react-activation](https://github.com/CJY0208/react-activation) - Hack \<KeepAlive /> for React
 
-*   [ischenliang/quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 轻快图床：使用nestjs+vue3.x+ts+vite开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能，插件分为上传插件、主题插件、工具箱插件，目前内置数十种插件，支持腾讯云COS、又拍云Upyun、阿里云OSS、github图床、gitee图床、七牛云 KODO等常用对象存储插件以及vscode暗黑主题、Monokai主题等。
-
 *   [supanpanCn/npm-only-allow](https://github.com/supanpanCn/npm-only-allow) - Force a specific package manager to be used on a project
 
 *   [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
@@ -643,6 +641,8 @@
 *   [staven630/vue-cli4-config](https://github.com/staven630/vue-cli4-config) - vue-cli4配置vue.config.js持续更新
 
 *   [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
+
+*   [yeyan1996/async-catch-loader](https://github.com/yeyan1996/async-catch-loader) - A webpack loader that can automatically injects try/catch into async function
 
 ## Roff
 
