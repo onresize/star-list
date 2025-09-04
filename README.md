@@ -10,6 +10,7 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Vue](#vue)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [C#](#c)
@@ -17,7 +18,6 @@
 *   [Roff](#roff)
 *   [Python](#python)
 *   [Rust](#rust)
-*   [Vue](#vue)
 *   [Java](#java)
 *   [Go](#go)
 *   [HTML](#html)
@@ -33,6 +33,8 @@
 *   [Thanks](#thanks)
 
 ## TypeScript
+
+*   [Kchengz/epic-designer](https://github.com/Kchengz/epic-designer) - vue3 表单设计器
 
 *   [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - Flexible Node.js AI-assisted crawler library
 
@@ -275,6 +277,88 @@
 *   [MMF-FE/vite-plugin-cdn-import](https://github.com/MMF-FE/vite-plugin-cdn-import) - Import modules from CDN with vite plugin
 
 *   [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架
+
+## Vue
+
+*   [Kchengz/k-form-design](https://github.com/Kchengz/k-form-design) - 基于vue Ant-Design 的表单设计器，快速开发
+
+*   [wangyuan389/yunda](https://github.com/wangyuan389/yunda) - 低代码搭建小程序、H5、问卷、图文。云搭万物，触手可及！
+
+*   [SXX19950910/manifest-design](https://github.com/SXX19950910/manifest-design) - vue开发的商品标签设计插件 && 系统，功能包含：设计，预览，打印
+
+*   [gausszhou/vue3-drag-resize-rotate](https://github.com/gausszhou/vue3-drag-resize-rotate) - 一个Vue3.0组件，支持拖拽，拉伸，旋转，放缩，自动对齐；A Component for Vue.js 3.0;
+
+*   [chansee97/nova-admin](https://github.com/chansee97/nova-admin) - A simple and flexible admin template based on Vue3, Vite, TypeScript, NaiveUI
+
+*   [ahua666/tuniaoUI](https://github.com/ahua666/tuniaoUI) - 图鸟UI，基于uni-app进行开发，提供丰富的组件进行快速开发，已经支持H5和微信小程序，包含常用表单组件、信息展示组件等，并提供丰富的酷炫页面模板。
+
+*   [DWHengr/linyu-admin-web](https://github.com/DWHengr/linyu-admin-web) - im system admin
+
+*   [sunwenxu1997/sunwenxu1997.github.io](https://github.com/sunwenxu1997/sunwenxu1997.github.io) - 页面效果，动画，插件使用等
+
+*   [zhengjie9510/webgis-demo](https://github.com/zhengjie9510/webgis-demo) - Cesium demos
+
+*   [lucidity99/mocha-vue3-system](https://github.com/lucidity99/mocha-vue3-system) - A vue3 management system
+
+*   [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
+
+*   [xfy520/vue3-seamless-scroll](https://github.com/xfy520/vue3-seamless-scroll) - Vue3.0 无缝滚动组件
+
+*   [zhousg/consult-patient-h5-vue3-ts-pinia-vant](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vue Router, Pinia, Composition API, TypeScript, Vant4, VueUse, Axios, SocketIO, PostCSS, ESlint, Prettier, Husky, Lint-staged, Mock, Amap, QQ Login, Alipay Sandbox, Eruda, CI/CD, Vercel, Mobile Project.
+
+*   [M-cheng-web/web-tracing-examples-vue3](https://github.com/M-cheng-web/web-tracing-examples-vue3) - web-tracing 的示例项目（vue3版本）
+
+*   [hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）
+
+*   [themusecatcher/vue-amazing-ui](https://github.com/themusecatcher/vue-amazing-ui) - 基于 Vue3 + TypeScript + Vite 开发的 UI 组件库！主题可调，全量使用 TypeScript 和 SFC，支持 tree shaking！若觉得好用，欢迎点个 ⭐️⭐️ 支持一下 🫶🫶
+
+*   [chenxuan0000/vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) -  :beginner:A simple, seamless scrolling for Vue.js  vue无缝滚动component
+
+*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
+
+*   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+
+*   [CrazyMrYan/vue-tree-color](https://github.com/CrazyMrYan/vue-tree-color) - Nice tree look at that
+
+*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
+
+*   [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅最新前端技术文章并自动分类
+
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+
+*   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
+
+*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
+
+*   [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
+
+*   [simple-uploader/vue-uploader](https://github.com/simple-uploader/vue-uploader) - A Vue.js upload component powered by simple-uploader.js
+
+*   [shady-xia/vue-uploader-solutions](https://github.com/shady-xia/vue-uploader-solutions) - Vue上传解决方案
+
+*   [yeyan1996/file-upload](https://github.com/yeyan1996/file-upload) - A guide about how to upload and process large files (using Vue.js for frontend and Node.js for backend)
+
+*   [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.5、 Spring Cloud 2025、 OAuth2 . Give a star
+
+*   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+
+*   [warpcgd/vue-concise-slider](https://github.com/warpcgd/vue-concise-slider) - vue-concise-slider,A simple vue sliding component
+
+*   [AwesomeDevin/vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) -  Waterfall  adaptive plugin for vue  and support lazy load , so easy!
+
+*   [sunzsh/vue-el-demo](https://github.com/sunzsh/vue-el-demo) -
+
+*   [haixin-fang/vue-form-design](https://github.com/haixin-fang/vue-form-design) - A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue3的可视化表单设计器，拖拽式操作让你快速构建一个表单, 让表单开发简单而高效。）
+
+*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
+
+*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
+
+*   [hahaj/vue-hkvideo](https://github.com/hahaj/vue-hkvideo) - 海康视频web插件v1.5.2组件封装
+
+*   [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的、全端兼容的、高性能UI框架
 
 ## Shell
 
@@ -644,10 +728,6 @@
 
 *   [staven630/vue-cli4-config](https://github.com/staven630/vue-cli4-config) - vue-cli4配置vue.config.js持续更新
 
-*   [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
-
-*   [yeyan1996/async-catch-loader](https://github.com/yeyan1996/async-catch-loader) - A webpack loader that can automatically injects try/catch into async function
-
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
@@ -677,86 +757,6 @@
 *   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 
 *   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
-
-## Vue
-
-*   [wangyuan389/yunda](https://github.com/wangyuan389/yunda) - 低代码搭建小程序、H5、问卷、图文。云搭万物，触手可及！
-
-*   [SXX19950910/manifest-design](https://github.com/SXX19950910/manifest-design) - vue开发的商品标签设计插件 && 系统，功能包含：设计，预览，打印
-
-*   [gausszhou/vue3-drag-resize-rotate](https://github.com/gausszhou/vue3-drag-resize-rotate) - 一个Vue3.0组件，支持拖拽，拉伸，旋转，放缩，自动对齐；A Component for Vue.js 3.0;
-
-*   [chansee97/nova-admin](https://github.com/chansee97/nova-admin) - A simple and flexible admin template based on Vue3, Vite, TypeScript, NaiveUI
-
-*   [ahua666/tuniaoUI](https://github.com/ahua666/tuniaoUI) - 图鸟UI，基于uni-app进行开发，提供丰富的组件进行快速开发，已经支持H5和微信小程序，包含常用表单组件、信息展示组件等，并提供丰富的酷炫页面模板。
-
-*   [DWHengr/linyu-admin-web](https://github.com/DWHengr/linyu-admin-web) - im system admin
-
-*   [sunwenxu1997/sunwenxu1997.github.io](https://github.com/sunwenxu1997/sunwenxu1997.github.io) - 页面效果，动画，插件使用等
-
-*   [zhengjie9510/webgis-demo](https://github.com/zhengjie9510/webgis-demo) - Cesium demos
-
-*   [lucidity99/mocha-vue3-system](https://github.com/lucidity99/mocha-vue3-system) - A vue3 management system
-
-*   [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
-
-*   [xfy520/vue3-seamless-scroll](https://github.com/xfy520/vue3-seamless-scroll) - Vue3.0 无缝滚动组件
-
-*   [zhousg/consult-patient-h5-vue3-ts-pinia-vant](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vue Router, Pinia, Composition API, TypeScript, Vant4, VueUse, Axios, SocketIO, PostCSS, ESlint, Prettier, Husky, Lint-staged, Mock, Amap, QQ Login, Alipay Sandbox, Eruda, CI/CD, Vercel, Mobile Project.
-
-*   [M-cheng-web/web-tracing-examples-vue3](https://github.com/M-cheng-web/web-tracing-examples-vue3) - web-tracing 的示例项目（vue3版本）
-
-*   [hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）
-
-*   [themusecatcher/vue-amazing-ui](https://github.com/themusecatcher/vue-amazing-ui) - 基于 Vue3 + TypeScript + Vite 开发的 UI 组件库！主题可调，全量使用 TypeScript 和 SFC，支持 tree shaking！若觉得好用，欢迎点个 ⭐️⭐️ 支持一下 🫶🫶
-
-*   [chenxuan0000/vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) -  :beginner:A simple, seamless scrolling for Vue.js  vue无缝滚动component
-
-*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
-
-*   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
-
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-
-*   [CrazyMrYan/vue-tree-color](https://github.com/CrazyMrYan/vue-tree-color) - Nice tree look at that
-
-*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
-
-*   [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅最新前端技术文章并自动分类
-
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-
-*   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
-
-*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
-
-*   [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
-
-*   [simple-uploader/vue-uploader](https://github.com/simple-uploader/vue-uploader) - A Vue.js upload component powered by simple-uploader.js
-
-*   [shady-xia/vue-uploader-solutions](https://github.com/shady-xia/vue-uploader-solutions) - Vue上传解决方案
-
-*   [yeyan1996/file-upload](https://github.com/yeyan1996/file-upload) - A guide about how to upload and process large files (using Vue.js for frontend and Node.js for backend)
-
-*   [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.5、 Spring Cloud 2025、 OAuth2 . Give a star
-
-*   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-
-*   [warpcgd/vue-concise-slider](https://github.com/warpcgd/vue-concise-slider) - vue-concise-slider,A simple vue sliding component
-
-*   [AwesomeDevin/vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) -  Waterfall  adaptive plugin for vue  and support lazy load , so easy!
-
-*   [sunzsh/vue-el-demo](https://github.com/sunzsh/vue-el-demo) -
-
-*   [haixin-fang/vue-form-design](https://github.com/haixin-fang/vue-form-design) - A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue3的可视化表单设计器，拖拽式操作让你快速构建一个表单, 让表单开发简单而高效。）
-
-*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
-
-*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
-
-*   [hahaj/vue-hkvideo](https://github.com/hahaj/vue-hkvideo) - 海康视频web插件v1.5.2组件封装
-
-*   [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的、全端兼容的、高性能UI框架
 
 ## Java
 
