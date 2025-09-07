@@ -624,8 +624,6 @@
 
 *   [CJY0208/react-activation](https://github.com/CJY0208/react-activation) - Hack \<KeepAlive /> for React
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
 *   [supanpanCn/npm-only-allow](https://github.com/supanpanCn/npm-only-allow) - Force a specific package manager to be used on a project
 
 *   [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
@@ -755,6 +753,8 @@
 *   [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 
 *   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
 
 *   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 
