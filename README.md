@@ -338,7 +338,7 @@
 
 *   [shady-xia/vue-uploader-solutions](https://github.com/shady-xia/vue-uploader-solutions) - Vue上传解决方案
 
-*   [yeyan1996/file-upload](https://github.com/yeyan1996/file-upload) - A guide about how to upload and process large files (using Vue.js for frontend and Node.js for backend)
+*   [zzzzzhowie/file-upload](https://github.com/zzzzzhowie/file-upload) - A guide about how to upload and process large files (using Vue.js for frontend and Node.js for backend)
 
 *   [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.5、 Spring Cloud 2025、 OAuth2 . Give a star
 
