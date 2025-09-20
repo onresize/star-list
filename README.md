@@ -9,12 +9,12 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [C#](#c)
-*   [JavaScript](#javascript)
 *   [Roff](#roff)
 *   [Python](#python)
 *   [Rust](#rust)
@@ -31,6 +31,308 @@
 *   [PHP](#php)
 *   [Smarty](#smarty)
 *   [Thanks](#thanks)
+
+## JavaScript
+
+*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+*   [CcSimple/vue-plugin-hiprint](https://github.com/CcSimple/vue-plugin-hiprint) - hiprint for Vue2/Vue3 ⚡打印、打印设计、可视化设计器、报表设计、元素编辑、可视化打印编辑
+
+*   [cv-cat/Spider\_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书全域运营解决方案
+
+*   [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+
+*   [thednp/kute.js](https://github.com/thednp/kute.js) - KUTE.js is a JavaScript animation engine for modern browsers.
+
+*   [mumuy/widget-qrcode](https://github.com/mumuy/widget-qrcode) - 二维码组件 - 二维码插件/二维码美化/二维码库/二维码图片/QRCode tool/QRCode WebCompotent/QRCode Beautify
+
+*   [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
+
+*   [Aymkdn/html-to-pdfmake](https://github.com/Aymkdn/html-to-pdfmake) - This module permits to convert HTML to the PDFMake format
+
+*   [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
+
+*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+
+*   [DWHengr/linyu-client](https://github.com/DWHengr/linyu-client) - im system client
+
+*   [forhadulislam/letterize.js](https://github.com/forhadulislam/letterize.js) - leterrize.js is a lightweight and pure JavaScript library
+
+*   [typsusan/effet](https://github.com/typsusan/effet) - effet.js 是一个轻量级的人脸样式框架，专注于为网页带来生动的面部动画效果。通过简单的API，开发者可以轻松实现眨眼、张嘴、摇头等动态表情，使用户界面更加互动和生动。effet.js 适用于需要增强用户体验的各种应用场景，特别是在前端项目中集成复杂的人脸动态效果。
+
+*   [gyrate/runcode](https://github.com/gyrate/runcode) - For online code demonstration
+
+*   [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
+
+*   [bubenshchykov/ngrok](https://github.com/bubenshchykov/ngrok) - Expose your localhost to the web. Node wrapper for ngrok.
+
+*   [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
+
+*   [caoyu48/vue-g6-editor](https://github.com/caoyu48/vue-g6-editor) - vue+g6 3.0实现的editor 由于g6-editor不开源 自己撸了一个
+
+*   [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
+
+*   [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
+
+*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
+
+*   [lucagrulla/node-tail](https://github.com/lucagrulla/node-tail) - The zero dependency Node.js module for tailing a file
+
+*   [rubentd/gifplayer](https://github.com/rubentd/gifplayer) - Customizable jquery plugin to play and stop animated gifs. Similar to 9gag's. Support for video formats
+
+*   [alibaba/anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
+
+*   [eduardolundgren/tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
+
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+
+*   [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step 前端手写题，一步步提升 JavaScript 编程水平
+
+*   [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
+
+*   [sindresorhus/p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
+
+*   [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
+
+*   [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+
+*   [jiawanlong/Cesium-Examples](https://github.com/jiawanlong/Cesium-Examples) - CesiumJS2025年最新Examples，200多个原生示例：自定义纹理、地形开挖、可视域分析、洪水淹没、缓冲分析、日照分析、方量分析、通透分析、剖面、单体化、视频融合、视频投射、雨雪雾、天空盒、场景出图、体积云、闪电、视锥体、雷达扫描、水波纹、动态扩散点、电子围栏、粒子效果、物理引擎、克里金、海流、大数据可视化、坐标转换、相机、飞行漫游、瓦片加载、xyz、tms、wms、wmts、天地图、高德、百度、wkt、shp、geojson、pbf、地形、entity、模型、海量数据、Primitive、gif、聚合、czml、字体图标、运动、3Dtiles、模型偏移、等等。。
+
+*   [holynova/gushi\_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
+
+*   [diffusionstudio/vits-web](https://github.com/diffusionstudio/vits-web) - Web api for using VITS based models in the browser!
+
+*   [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
+
+*   [patorjk/figlet.js](https://github.com/patorjk/figlet.js) - A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
+
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+
+*   [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+
+*   [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
+
+*   [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
+
+*   [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
+
+*   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
+
+*   [amineyarman/vue-kinesis](https://github.com/amineyarman/vue-kinesis) - Easily create complex interactive animations with Vue.js
+
+*   [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
+
+*   [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
+
+*   [hzzly/credit-bi-react](https://github.com/hzzly/credit-bi-react) - 🔥BI数据大屏的实践
+
+*   [clippyjs/clippy.js](https://github.com/clippyjs/clippy.js) - Add Clippy or his friends to any website for instant nostalgia.
+
+*   [hilongjw/vue-lazyload](https://github.com/hilongjw/vue-lazyload) - A Vue.js plugin for lazyload your Image or Component in your application.
+
+*   [gaboolic/cloudflare-reverse-fast](https://github.com/gaboolic/cloudflare-reverse-fast) - cloudflare加速openai等接口
+
+*   [dirk1983/deepseek](https://github.com/dirk1983/deepseek) - 演示站可以免费使用deepseek-r1满血模型进行AI对话，并支持使用stablediffusion模型画图。本项目是PHP版调用DeepSeek第三方接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开，适合PHP初学者。保姆级教程，账号等周边资源，欢迎进群交流，一切全免费。
+
+*   [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - Vue 3 + TresJS integration for Three.js 3D graphics. \[tvt.js tres.js three.js vue3 ts]
+
+*   [CahierX/screen-visualization](https://github.com/CahierX/screen-visualization) - 大屏可视化，数据可视化，Echarts 可视化，3D 数据可视化，通过拖拽组件的方式完成大屏页面开发
+
+*   [CahierX/geojson-shp-3dtiles](https://github.com/CahierX/geojson-shp-3dtiles) - 通过在地图上绘制区域框获取此区域内3d buildings数据 生成geojson, shp, 3dtiles格式数据
+
+*   [xuesaiGit/ThreeJs-3Dmap](https://github.com/xuesaiGit/ThreeJs-3Dmap) - 一个ThreeJs和GeoJson创建的3D可视化地图Demo
+
+*   [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 - 一个免费开源的网盘下载助手
+
+*   [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager
+
+*   [jae-jae/Camtd](https://github.com/jae-jae/Camtd) - Chrome multi-threaded download manager extension,based on Aria2 and AriaNg.  Chrome多线程下载扩展。
+
+*   [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
+
+*   [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+
+*   [chokcoco/httphijack](https://github.com/chokcoco/httphijack) - 使用Javascript实现前端防御http劫持及防御XSS攻击，并且对可疑攻击进行上报
+
+*   [weijun-lab/region-screenshot-js](https://github.com/weijun-lab/region-screenshot-js) - A web-based selection screenshot plugin that helps you quickly build a beautiful and functional screenshot selection feature. / 一个web端选区截图插件，帮助你快速构建出精美的选区截图功能。
+
+*   [pissang/little-big-city](https://github.com/pissang/little-big-city) -
+
+*   [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
+
+*   [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
+
+*   [RobertWHurst/KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
+
+*   [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
+
+*   [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag
+
+*   [wangweianger/zanePerfor](https://github.com/wangweianger/zanePerfor) - 前端性能监控系统,消息队列,高可用,集群等相关架构
+
+*   [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar) -
+
+*   [ecomfe/echarts-gl](https://github.com/ecomfe/echarts-gl) - Extension pack for Apache ECharts, providing globe visualization and 3D plots.
+
+*   [babel/minify](https://github.com/babel/minify) - :scissors: An ES6+ aware minifier based on the Babel toolchain (beta)
+
+*   [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is a middleware layer for Node.js
+
+*   [sangtian152/vue3-tree-org](https://github.com/sangtian152/vue3-tree-org) - 基于vue3.x + typeScript 实现的组织架构图
+
+*   [listen1/listen1\_desktop](https://github.com/listen1/listen1_desktop) - one for all free music in china (Windows, Mac, Linux desktop)
+
+*   [duskload/react-device-detect](https://github.com/duskload/react-device-detect) - Detect device, and render view according to detected device type.
+
+*   [HondryTravis/xs-docs](https://github.com/HondryTravis/xs-docs) - 这是 x-spreadsheet 的文档库，同步更新
+
+*   [forwardemail/superagent](https://github.com/forwardemail/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
+
+*   [wll8/mockm](https://github.com/wll8/mockm) - 用于处理前端在接口环节中的各种问题，例如快速生成 api 以及创造数据、页面部署等，开箱即用，便于迁移。A framework based on Express. It can quickly generate APIs and create data, ready for deployment out of the box.
+
+*   [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iframes sized to their content
+
+*   [InhiblabCore/vue-hooks-plus-playground](https://github.com/InhiblabCore/vue-hooks-plus-playground) - VueHooks Plus  🛹 Playground
+
+*   [cuth/postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
+
+*   [taylorhakes/promise-polyfill](https://github.com/taylorhakes/promise-polyfill) - Lightweight ES6 Promise polyfill for the browser and node. A+ Compliant
+
+*   [micku7zu/vanilla-tilt.js](https://github.com/micku7zu/vanilla-tilt.js) - A smooth 3D tilt javascript library.
+
+*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+
+*   [ccallcn/ovsyunlive](https://github.com/ccallcn/ovsyunlive) - 网页播放rtsp,Web直播rtmp推流,Web直接rtsp/rtmp无插件播放,电子游戏直播,桌面远程控制,游戏远控,视频会议,MCU/SFU视频会议,会议直播,rtsp监控,视频对讲,Ｗeb推流,flv播放器,Web桌面直播,ws流拉流转发,web无插件监控,rtsp-Web监控,网页视频会议,支持http-flv,ws-flv,直播录播,多通道流转发工具,Gb28181监控直播,Webrtc推流,Webrtc直播,Webrtc播放、远程医疗、视频安全帽、机顶盒
+
+*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+
+*   [MuYunyun/create-react-doc](https://github.com/MuYunyun/create-react-doc) - 📝 Minimalistic React-powered static site generator.
+
+*   [c-hive/gha-remove-artifacts](https://github.com/c-hive/gha-remove-artifacts) - GitHub Action to customize artifact cleanup
+
+*   [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, sourcegraph, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers. Please follow gray-matter's author: https://github.com/jonschlinkert
+
+*   [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
+
+*   [postcss/autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
+
+*   [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
+
+*   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+
+*   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+
+*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控和埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
+
+*   [Jimmylxue/Vitality-reminder](https://github.com/Jimmylxue/Vitality-reminder) - 利用微信订阅号的方式，给女朋友每天定时定时推送消息。 如果还没有女朋友的这个可以祝你一臂之力
+
+*   [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
+
+*   [shengxinjing/fe-advanced-interview](https://github.com/shengxinjing/fe-advanced-interview) - 前端进阶面试指南
+
+*   [CJY0208/react-activation](https://github.com/CJY0208/react-activation) - Hack \<KeepAlive /> for React
+
+*   [supanpanCn/npm-only-allow](https://github.com/supanpanCn/npm-only-allow) - Force a specific package manager to be used on a project
+
+*   [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
+
+*   [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
+
+*   [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader) - VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。
+
+*   [douglascrockford/JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
+
+*   [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
+
+*   [dev-zuo/nice-func](https://github.com/dev-zuo/nice-func) - 尝试实现一些让人耳目一新、感觉很 nice 的网页内容、动效 http://nice.zuo11.com
+
+*   [course-dasheng/fe-algorithm](https://github.com/course-dasheng/fe-algorithm) - 前端啃算法，一次性解决前端工程师的算法学习问题
+
+*   [dev-zuo/fedemo](https://github.com/dev-zuo/fedemo) - 前端相关demo在线示例
+
+*   [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
+
+*   [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
+
+*   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
+
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
+*   [jerryc127/butterfly.js.org](https://github.com/jerryc127/butterfly.js.org) - Butterfly 的文檔/ Demo 倉庫
+
+*   [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
+
+*   [airyland/china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据
+
+*   [YahooArchive/ypromise](https://github.com/YahooArchive/ypromise) - An ES6 Promise polyfill
+
+*   [getify/native-promise-only](https://github.com/getify/native-promise-only) - A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.
+
+*   [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+
+*   [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
+
+*   [fengmk2/fawave\_desktop](https://github.com/fengmk2/fawave_desktop) - Fawave Desktop
+
+*   [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+
+*   [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
+
+*   [Tinywan/H5-dash-hls-rtmp-webrtc](https://github.com/Tinywan/H5-dash-hls-rtmp-webrtc) - :sunflower: 传统直播：HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权。:green\_apple: 实时直播：WebRTC
+
+*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+
+*   [stefanpenner/es6-promise](https://github.com/stefanpenner/es6-promise) - A polyfill for ES6-style Promises
+
+*   [saucxs/watermark-dom](https://github.com/saucxs/watermark-dom) - watermark.js是基于DOM对象实现的BS系统的水印，确保系统保密性，安全性，降低数据泄密风险，简单轻量，支持多属性配置，动态计算水印，水印防被删（监听水印组件元素删除并重新添加，监听改变水印的属性并重新添加）。1、支持2种方式导入使用，2、水印插件-testTool（测试工具），3、内置3种全局API方法，等等。欢迎访问：
+
+*   [PanJiaChen/vue-countTo](https://github.com/PanJiaChen/vue-countTo) - It's a vue component that will count to a target number at a specified duration https://panjiachen.github.io/countTo/demo/
+
+*   [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
+
+*   [sxei/vscode-plugin-demo](https://github.com/sxei/vscode-plugin-demo) - VSCode插件开发全攻略配套demo
+
+*   [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
+
+*   [sxei/pinyinjs](https://github.com/sxei/pinyinjs) - 一个实现汉字与拼音互转的小巧web工具库，演示地址：
+
+*   [sxei/sxei.github.io](https://github.com/sxei/sxei.github.io) - 各种前端demo集合，demo.haoji.me 源码
+
+*   [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - :bird: :zap: Bluebird is a full featured promise library with unmatched performance.
+
+*   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
+
+*   [doggy8088/TampermonkeyUserscripts](https://github.com/doggy8088/TampermonkeyUserscripts) -
+
+*   [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
+
+*   [syl22-00/pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) - Speech recognition in JavaScript and WebAssembly
+
+*   [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
+
+*   [web-push-libs/web-push](https://github.com/web-push-libs/web-push) - Web Push library for Node.js
+
+*   [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
+
+*   [helijun/documents](https://github.com/helijun/documents) - 个人的一些暂存文件
+
+*   [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
+
+*   [disoul/electron-cloud-music](https://github.com/disoul/electron-cloud-music) -  网易云音乐 Electron  客户端
+
+*   [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+
+*   [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
+
+*   [marcelduran/yslow](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
+
+*   [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline) - A polyfill of ScrollTimeline.
+
+*   [noiron/socket-message-push](https://github.com/noiron/socket-message-push) -
+
+*   [826327700/vue-photo-preview](https://github.com/826327700/vue-photo-preview) - 基于photoswipe的vue图片预览组件
 
 ## TypeScript
 
@@ -423,308 +725,6 @@
 *   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-## JavaScript
-
-*   [CcSimple/vue-plugin-hiprint](https://github.com/CcSimple/vue-plugin-hiprint) - hiprint for Vue2/Vue3 ⚡打印、打印设计、可视化设计器、报表设计、元素编辑、可视化打印编辑
-
-*   [cv-cat/Spider\_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书全域运营解决方案
-
-*   [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-
-*   [thednp/kute.js](https://github.com/thednp/kute.js) - KUTE.js is a JavaScript animation engine for modern browsers.
-
-*   [mumuy/widget-qrcode](https://github.com/mumuy/widget-qrcode) - 二维码组件 - 二维码插件/二维码美化/二维码库/二维码图片/QRCode tool/QRCode WebCompotent/QRCode Beautify
-
-*   [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
-
-*   [Aymkdn/html-to-pdfmake](https://github.com/Aymkdn/html-to-pdfmake) - This module permits to convert HTML to the PDFMake format
-
-*   [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
-
-*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
-
-*   [DWHengr/linyu-client](https://github.com/DWHengr/linyu-client) - im system client
-
-*   [forhadulislam/letterize.js](https://github.com/forhadulislam/letterize.js) - leterrize.js is a lightweight and pure JavaScript library
-
-*   [typsusan/effet](https://github.com/typsusan/effet) - effet.js 是一个轻量级的人脸样式框架，专注于为网页带来生动的面部动画效果。通过简单的API，开发者可以轻松实现眨眼、张嘴、摇头等动态表情，使用户界面更加互动和生动。effet.js 适用于需要增强用户体验的各种应用场景，特别是在前端项目中集成复杂的人脸动态效果。
-
-*   [gyrate/runcode](https://github.com/gyrate/runcode) - For online code demonstration
-
-*   [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
-
-*   [bubenshchykov/ngrok](https://github.com/bubenshchykov/ngrok) - Expose your localhost to the web. Node wrapper for ngrok.
-
-*   [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
-
-*   [caoyu48/vue-g6-editor](https://github.com/caoyu48/vue-g6-editor) - vue+g6 3.0实现的editor 由于g6-editor不开源 自己撸了一个
-
-*   [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
-
-*   [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
-
-*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
-
-*   [lucagrulla/node-tail](https://github.com/lucagrulla/node-tail) - The zero dependency Node.js module for tailing a file
-
-*   [rubentd/gifplayer](https://github.com/rubentd/gifplayer) - Customizable jquery plugin to play and stop animated gifs. Similar to 9gag's. Support for video formats
-
-*   [alibaba/anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
-
-*   [eduardolundgren/tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
-
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-
-*   [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step 前端手写题，一步步提升 JavaScript 编程水平
-
-*   [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
-
-*   [sindresorhus/p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
-
-*   [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-
-*   [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-
-*   [jiawanlong/Cesium-Examples](https://github.com/jiawanlong/Cesium-Examples) - CesiumJS2025年最新Examples，200多个原生示例：自定义纹理、地形开挖、可视域分析、洪水淹没、缓冲分析、日照分析、方量分析、通透分析、剖面、单体化、视频融合、视频投射、雨雪雾、天空盒、场景出图、体积云、闪电、视锥体、雷达扫描、水波纹、动态扩散点、电子围栏、粒子效果、物理引擎、克里金、海流、大数据可视化、坐标转换、相机、飞行漫游、瓦片加载、xyz、tms、wms、wmts、天地图、高德、百度、wkt、shp、geojson、pbf、地形、entity、模型、海量数据、Primitive、gif、聚合、czml、字体图标、运动、3Dtiles、模型偏移、等等。。
-
-*   [holynova/gushi\_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
-
-*   [diffusionstudio/vits-web](https://github.com/diffusionstudio/vits-web) - Web api for using VITS based models in the browser!
-
-*   [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
-
-*   [patorjk/figlet.js](https://github.com/patorjk/figlet.js) - A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
-
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-
-*   [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-
-*   [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
-
-*   [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
-
-*   [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
-
-*   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
-
-*   [amineyarman/vue-kinesis](https://github.com/amineyarman/vue-kinesis) - Easily create complex interactive animations with Vue.js
-
-*   [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
-
-*   [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
-
-*   [hzzly/credit-bi-react](https://github.com/hzzly/credit-bi-react) - 🔥BI数据大屏的实践
-
-*   [clippyjs/clippy.js](https://github.com/clippyjs/clippy.js) - Add Clippy or his friends to any website for instant nostalgia.
-
-*   [hilongjw/vue-lazyload](https://github.com/hilongjw/vue-lazyload) - A Vue.js plugin for lazyload your Image or Component in your application.
-
-*   [gaboolic/cloudflare-reverse-fast](https://github.com/gaboolic/cloudflare-reverse-fast) - cloudflare加速openai等接口
-
-*   [dirk1983/deepseek](https://github.com/dirk1983/deepseek) - 演示站可以免费使用deepseek-r1满血模型进行AI对话，并支持使用stablediffusion模型画图。本项目是PHP版调用DeepSeek第三方接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开，适合PHP初学者。保姆级教程，账号等周边资源，欢迎进群交流，一切全免费。
-
-*   [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - Vue 3 + TresJS integration for Three.js 3D graphics. \[tvt.js tres.js three.js vue3 ts]
-
-*   [CahierX/screen-visualization](https://github.com/CahierX/screen-visualization) - 大屏可视化，数据可视化，Echarts 可视化，3D 数据可视化，通过拖拽组件的方式完成大屏页面开发
-
-*   [CahierX/geojson-shp-3dtiles](https://github.com/CahierX/geojson-shp-3dtiles) - 通过在地图上绘制区域框获取此区域内3d buildings数据 生成geojson, shp, 3dtiles格式数据
-
-*   [xuesaiGit/ThreeJs-3Dmap](https://github.com/xuesaiGit/ThreeJs-3Dmap) - 一个ThreeJs和GeoJson创建的3D可视化地图Demo
-
-*   [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 - 一个免费开源的网盘下载助手
-
-*   [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager
-
-*   [jae-jae/Camtd](https://github.com/jae-jae/Camtd) - Chrome multi-threaded download manager extension,based on Aria2 and AriaNg.  Chrome多线程下载扩展。
-
-*   [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
-
-*   [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
-
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-
-*   [chokcoco/httphijack](https://github.com/chokcoco/httphijack) - 使用Javascript实现前端防御http劫持及防御XSS攻击，并且对可疑攻击进行上报
-
-*   [weijun-lab/region-screenshot-js](https://github.com/weijun-lab/region-screenshot-js) - A web-based selection screenshot plugin that helps you quickly build a beautiful and functional screenshot selection feature. / 一个web端选区截图插件，帮助你快速构建出精美的选区截图功能。
-
-*   [pissang/little-big-city](https://github.com/pissang/little-big-city) -
-
-*   [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
-
-*   [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
-
-*   [RobertWHurst/KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
-
-*   [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
-
-*   [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag
-
-*   [wangweianger/zanePerfor](https://github.com/wangweianger/zanePerfor) - 前端性能监控系统,消息队列,高可用,集群等相关架构
-
-*   [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar) -
-
-*   [ecomfe/echarts-gl](https://github.com/ecomfe/echarts-gl) - Extension pack for Apache ECharts, providing globe visualization and 3D plots.
-
-*   [babel/minify](https://github.com/babel/minify) - :scissors: An ES6+ aware minifier based on the Babel toolchain (beta)
-
-*   [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is a middleware layer for Node.js
-
-*   [sangtian152/vue3-tree-org](https://github.com/sangtian152/vue3-tree-org) - 基于vue3.x + typeScript 实现的组织架构图
-
-*   [listen1/listen1\_desktop](https://github.com/listen1/listen1_desktop) - one for all free music in china (Windows, Mac, Linux desktop)
-
-*   [duskload/react-device-detect](https://github.com/duskload/react-device-detect) - Detect device, and render view according to detected device type.
-
-*   [HondryTravis/xs-docs](https://github.com/HondryTravis/xs-docs) - 这是 x-spreadsheet 的文档库，同步更新
-
-*   [forwardemail/superagent](https://github.com/forwardemail/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
-
-*   [wll8/mockm](https://github.com/wll8/mockm) - 用于处理前端在接口环节中的各种问题，例如快速生成 api 以及创造数据、页面部署等，开箱即用，便于迁移。A framework based on Express. It can quickly generate APIs and create data, ready for deployment out of the box.
-
-*   [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iframes sized to their content
-
-*   [InhiblabCore/vue-hooks-plus-playground](https://github.com/InhiblabCore/vue-hooks-plus-playground) - VueHooks Plus  🛹 Playground
-
-*   [cuth/postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
-
-*   [taylorhakes/promise-polyfill](https://github.com/taylorhakes/promise-polyfill) - Lightweight ES6 Promise polyfill for the browser and node. A+ Compliant
-
-*   [micku7zu/vanilla-tilt.js](https://github.com/micku7zu/vanilla-tilt.js) - A smooth 3D tilt javascript library.
-
-*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-
-*   [ccallcn/ovsyunlive](https://github.com/ccallcn/ovsyunlive) - 网页播放rtsp,Web直播rtmp推流,Web直接rtsp/rtmp无插件播放,电子游戏直播,桌面远程控制,游戏远控,视频会议,MCU/SFU视频会议,会议直播,rtsp监控,视频对讲,Ｗeb推流,flv播放器,Web桌面直播,ws流拉流转发,web无插件监控,rtsp-Web监控,网页视频会议,支持http-flv,ws-flv,直播录播,多通道流转发工具,Gb28181监控直播,Webrtc推流,Webrtc直播,Webrtc播放、远程医疗、视频安全帽、机顶盒
-
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-
-*   [MuYunyun/create-react-doc](https://github.com/MuYunyun/create-react-doc) - 📝 Minimalistic React-powered static site generator.
-
-*   [c-hive/gha-remove-artifacts](https://github.com/c-hive/gha-remove-artifacts) - GitHub Action to customize artifact cleanup
-
-*   [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, sourcegraph, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers. Please follow gray-matter's author: https://github.com/jonschlinkert
-
-*   [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
-
-*   [postcss/autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
-
-*   [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
-
-*   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-
-*   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-
-*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控和埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
-
-*   [Jimmylxue/Vitality-reminder](https://github.com/Jimmylxue/Vitality-reminder) - 利用微信订阅号的方式，给女朋友每天定时定时推送消息。 如果还没有女朋友的这个可以祝你一臂之力
-
-*   [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
-
-*   [shengxinjing/fe-advanced-interview](https://github.com/shengxinjing/fe-advanced-interview) - 前端进阶面试指南
-
-*   [CJY0208/react-activation](https://github.com/CJY0208/react-activation) - Hack \<KeepAlive /> for React
-
-*   [supanpanCn/npm-only-allow](https://github.com/supanpanCn/npm-only-allow) - Force a specific package manager to be used on a project
-
-*   [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
-
-*   [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
-
-*   [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader) - VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。
-
-*   [douglascrockford/JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
-
-*   [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
-
-*   [dev-zuo/nice-func](https://github.com/dev-zuo/nice-func) - 尝试实现一些让人耳目一新、感觉很 nice 的网页内容、动效 http://nice.zuo11.com
-
-*   [course-dasheng/fe-algorithm](https://github.com/course-dasheng/fe-algorithm) - 前端啃算法，一次性解决前端工程师的算法学习问题
-
-*   [dev-zuo/fedemo](https://github.com/dev-zuo/fedemo) - 前端相关demo在线示例
-
-*   [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
-
-*   [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
-
-*   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
-
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-
-*   [jerryc127/butterfly.js.org](https://github.com/jerryc127/butterfly.js.org) - Butterfly 的文檔/ Demo 倉庫
-
-*   [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
-
-*   [airyland/china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据
-
-*   [YahooArchive/ypromise](https://github.com/YahooArchive/ypromise) - An ES6 Promise polyfill
-
-*   [getify/native-promise-only](https://github.com/getify/native-promise-only) - A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.
-
-*   [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
-
-*   [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
-
-*   [fengmk2/fawave\_desktop](https://github.com/fengmk2/fawave_desktop) - Fawave Desktop
-
-*   [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-
-*   [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
-
-*   [Tinywan/H5-dash-hls-rtmp-webrtc](https://github.com/Tinywan/H5-dash-hls-rtmp-webrtc) - :sunflower: 传统直播：HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权。:green\_apple: 实时直播：WebRTC
-
-*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
-
-*   [stefanpenner/es6-promise](https://github.com/stefanpenner/es6-promise) - A polyfill for ES6-style Promises
-
-*   [saucxs/watermark-dom](https://github.com/saucxs/watermark-dom) - watermark.js是基于DOM对象实现的BS系统的水印，确保系统保密性，安全性，降低数据泄密风险，简单轻量，支持多属性配置，动态计算水印，水印防被删（监听水印组件元素删除并重新添加，监听改变水印的属性并重新添加）。1、支持2种方式导入使用，2、水印插件-testTool（测试工具），3、内置3种全局API方法，等等。欢迎访问：
-
-*   [PanJiaChen/vue-countTo](https://github.com/PanJiaChen/vue-countTo) - It's a vue component that will count to a target number at a specified duration https://panjiachen.github.io/countTo/demo/
-
-*   [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
-
-*   [sxei/vscode-plugin-demo](https://github.com/sxei/vscode-plugin-demo) - VSCode插件开发全攻略配套demo
-
-*   [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
-
-*   [sxei/pinyinjs](https://github.com/sxei/pinyinjs) - 一个实现汉字与拼音互转的小巧web工具库，演示地址：
-
-*   [sxei/sxei.github.io](https://github.com/sxei/sxei.github.io) - 各种前端demo集合，demo.haoji.me 源码
-
-*   [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - :bird: :zap: Bluebird is a full featured promise library with unmatched performance.
-
-*   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
-
-*   [doggy8088/TampermonkeyUserscripts](https://github.com/doggy8088/TampermonkeyUserscripts) -
-
-*   [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
-
-*   [syl22-00/pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) - Speech recognition in JavaScript and WebAssembly
-
-*   [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
-
-*   [web-push-libs/web-push](https://github.com/web-push-libs/web-push) - Web Push library for Node.js
-
-*   [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
-
-*   [helijun/documents](https://github.com/helijun/documents) - 个人的一些暂存文件
-
-*   [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
-
-*   [disoul/electron-cloud-music](https://github.com/disoul/electron-cloud-music) -  网易云音乐 Electron  客户端
-
-*   [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
-
-*   [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
-
-*   [marcelduran/yslow](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
-
-*   [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline) - A polyfill of ScrollTimeline.
-
-*   [noiron/socket-message-push](https://github.com/noiron/socket-message-push) -
-
-*   [826327700/vue-photo-preview](https://github.com/826327700/vue-photo-preview) - 基于photoswipe的vue图片预览组件
-
-*   [staven630/vue-cli4-config](https://github.com/staven630/vue-cli4-config) - vue-cli4配置vue.config.js持续更新
 
 ## Roff
 
