@@ -685,7 +685,7 @@
 
 *   [lihaoyun6/capXDR-plugins](https://github.com/lihaoyun6/capXDR-plugins) - capXDR截图模板仓库 / Plugins for capXDR
 
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 
 ## miscellaneous
 
