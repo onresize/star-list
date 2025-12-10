@@ -217,7 +217,7 @@
 
 *   [duskload/react-device-detect](https://github.com/duskload/react-device-detect) - Detect device, and render view according to detected device type.
 
-*   [HondryTravis/xs-docs](https://github.com/HondryTravis/xs-docs) - 这是 x-spreadsheet 的文档库，同步更新
+*   [hondrytravis/xs-docs](https://github.com/hondrytravis/xs-docs) - 这是 x-spreadsheet 的文档库，同步更新
 
 *   [forwardemail/superagent](https://github.com/forwardemail/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 
