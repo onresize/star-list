@@ -35,6 +35,8 @@
 
 ## TypeScript
 
+*   [MrXujiang/pxcharts](https://github.com/MrXujiang/pxcharts) -  一款支持百万数据渲染的多维表格解决方案
+
 *   [huodoushigemi/wc-flow-layout](https://github.com/huodoushigemi/wc-flow-layout) - High performance waterfall layout written using web components
 
 *   [Kchengz/epic-designer](https://github.com/Kchengz/epic-designer) - vue3 表单设计器
@@ -690,8 +692,6 @@
 *   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 
 *   [hahaj/vue-hkvideo](https://github.com/hahaj/vue-hkvideo) - 海康视频web插件v1.5.2组件封装
-
-*   [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的、全端兼容的、高性能UI框架
 
 ## Shell
 
