@@ -35,6 +35,10 @@
 
 ## TypeScript
 
+*   [xun082/DocFlow](https://github.com/xun082/DocFlow) - AI-powered docs ✍️ Built with Tiptap & Next.js — real-time collab ⚡, smart writing 🤖, and a flexible plugin system 🔌
+
+*   [zhcndoc/h3](https://github.com/zhcndoc/h3) - H3 中文文档
+
 *   [MrXujiang/pxcharts](https://github.com/MrXujiang/pxcharts) -  一款支持百万数据渲染的多维表格解决方案
 
 *   [huodoushigemi/wc-flow-layout](https://github.com/huodoushigemi/wc-flow-layout) - High performance waterfall layout written using web components
@@ -280,10 +284,6 @@
 *   [pieroxy/lz-string](https://github.com/pieroxy/lz-string) - LZ-based compression algorithm for JavaScript
 
 *   [InhiblabCore/vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus) - High performance  & Simplicity  🧲  Vue 3 Hooks library
-
-*   [vbenjs/vite-plugin-imagemin](https://github.com/vbenjs/vite-plugin-imagemin) - A vite plugin for compressing image assets.
-
-*   [MMF-FE/vite-plugin-cdn-import](https://github.com/MMF-FE/vite-plugin-cdn-import) - Import modules from CDN with vite plugin
 
 ## Go
 
