@@ -711,7 +711,7 @@
 
 *   [feiniaoyun/feiniaoyun](https://github.com/feiniaoyun/feiniaoyun) -
 
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) -
 
 *   [free-nodes/v2rayfree](https://github.com/free-nodes/v2rayfree) - v2ray节点、免费节点、免费v2ray节点、最新公益免费v2ray节点订阅地址、免费v2ray节点每日更新、免费ss/v2ray/trojan节点、freefq
 
