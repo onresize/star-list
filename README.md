@@ -26,12 +26,12 @@
 *   [C](#c-2)
 *   [Dockerfile](#dockerfile)
 *   [Dart](#dart)
+*   [Kotlin](#kotlin)
 *   [CSS](#css)
 *   [SCSS](#scss)
 *   [Ruby](#ruby)
 *   [PHP](#php)
 *   [Smarty](#smarty)
-*   [Kotlin](#kotlin)
 *   [Less](#less)
 *   [Thanks](#thanks)
 
@@ -1031,8 +1031,6 @@
 
 *   [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca) - Jessibuca是一款开源的纯H5直播流播放器
 
-*   [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
-
 *   [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
 
 ## Dockerfile
@@ -1042,6 +1040,12 @@
 ## Dart
 
 *   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
+
+## Kotlin
+
+*   [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
+
+*   [running-libo/Tiktok](https://github.com/running-libo/Tiktok) - 高仿抖音APP
 
 ## CSS
 
@@ -1072,10 +1076,6 @@
 ## Smarty
 
 *   [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 651 个。
-
-## Kotlin
-
-*   [running-libo/Tiktok](https://github.com/running-libo/Tiktok) - 高仿抖音APP
 
 ## Less
 
