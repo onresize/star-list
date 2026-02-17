@@ -477,7 +477,7 @@
 
 ## Swift
 
-*   [leminlimez/Pocket-Poster](https://github.com/leminlimez/Pocket-Poster) - Custom PosterBoard Wallpapers for iOS 17+
+*   [leminlimez/Pocket-Poster](https://github.com/leminlimez/Pocket-Poster) - Custom PosterBoard Wallpapers for iOS 17-26.1
 
 ## JavaScript
 
