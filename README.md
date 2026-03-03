@@ -731,7 +731,7 @@
 
 *   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 
-*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控和埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
+*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - Webfunny是一款集全链路监控和埋点系统于一体的大数据分析系统，我们致力于解决线上的疑难杂症和精细化分析业务数据；监控系统面向技术、埋点系统面向业务，两者配合使用，相得益彰。
 
 *   [Jimmylxue/Vitality-reminder](https://github.com/Jimmylxue/Vitality-reminder) - 利用微信订阅号的方式，给女朋友每天定时定时推送消息。 如果还没有女朋友的这个可以祝你一臂之力
 
