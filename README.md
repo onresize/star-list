@@ -331,6 +331,8 @@
 
 *   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 
+*   [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
+
 *   [webfansplz/vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Vite + Vue DevTools = DX  🔥
 
 *   [unplugin/unplugin-vue-markdown](https://github.com/unplugin/unplugin-vue-markdown) - Compile Markdown to Vue component
@@ -581,7 +583,7 @@
 
 *   [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
 
-*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
+*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
 *   [lucagrulla/node-tail](https://github.com/lucagrulla/node-tail) - The zero dependency Node.js module for tailing a file
 
@@ -818,8 +820,6 @@
 *   [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
 
 *   [syl22-00/pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) - Speech recognition in JavaScript and WebAssembly
-
-*   [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
 
 *   [web-push-libs/web-push](https://github.com/web-push-libs/web-push) - Web Push library for Node.js
 
