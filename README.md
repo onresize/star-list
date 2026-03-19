@@ -687,7 +687,7 @@
 
 *   [babel/minify](https://github.com/babel/minify) - :scissors: An ES6+ aware minifier based on the Babel toolchain (beta)
 
-*   [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is a middleware layer for Node.js
+*   [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is an extensible HTTP server framework for node using "plugins" known as middleware.
 
 *   [sangtian152/vue3-tree-org](https://github.com/sangtian152/vue3-tree-org) - 基于vue3.x + typeScript 实现的组织架构图
 
