@@ -37,6 +37,8 @@
 
 ## miscellaneous
 
+*   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
+
 *   [applexpcn/ChatGPT-CN-Recharge](https://github.com/applexpcn/ChatGPT-CN-Recharge) - 2026年国内订阅 ChatGPT Plus 的实用路径与安全指引：基于第三方代充平台的真实经验，帮助你在支付受限场景下顺利开通并稳定使用 GPT-5 高级能力，降低风险、规避坑点，畅享更快响应、图像生成与文件分析等进阶功能。
 
 *   [zbezj/HEU\_KMS\_Activator](https://github.com/zbezj/HEU_KMS_Activator) -
@@ -397,7 +399,7 @@
 
 *   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
-*   [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code in one click
+*   [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library, AI-friendly built-in.🎨Provide 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.🧑🏻‍💻 Design to Code in one click
 
 *   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
@@ -914,8 +916,6 @@
 *   [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 
 *   [MisterTaki/vue-table-with-tree-grid](https://github.com/MisterTaki/vue-table-with-tree-grid) - A table (with tree-grid) component for Vue.js 2.0. (Its style extends @iView)
-
-*   [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 
 ## Shell
 
