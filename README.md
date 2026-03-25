@@ -9,6 +9,8 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
+*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -19,9 +21,7 @@
 *   [Shell](#shell)
 *   [C#](#c)
 *   [Roff](#roff)
-*   [Rust](#rust)
 *   [Java](#java)
-*   [HTML](#html)
 *   [C++](#c-1)
 *   [C](#c-2)
 *   [Dockerfile](#dockerfile)
@@ -34,6 +34,68 @@
 *   [Smarty](#smarty)
 *   [Less](#less)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+
+*   [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
+
+*   [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
+
+*   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+
+*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
+
+## HTML
+
+*   [jitOffice/jit-viewer-sdk](https://github.com/jitOffice/jit-viewer-sdk) - 一款强大的office文档预览sdk，支持word，pdf，markdown，ppt，excel等文件的预览
+
+*   [formkit/drag-and-drop](https://github.com/formkit/drag-and-drop) -
+
+*   [Sunny-117/tiny-anything](https://github.com/Sunny-117/tiny-anything) - 🚀 Explore the source code of the front-end library and implement a super mini version 前端轮子库，包含框架及其周边生态、工具链、插件迷你源码实现
+
+*   [qwd/Icons](https://github.com/qwd/Icons) - 和风天气开源图标字体库 Open source weather icons && fonts for QWeather
+
+*   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
+
+*   [pandaoh/js-xxx](https://github.com/pandaoh/js-xxx) - \[ http://x.biugle.cn ] Fed JavaScript Function Library. 前端 JavaScript 常用函数/工具/方法库，支持按需引入，方便抽离工具类等常用方法。
+
+*   [fengtianxi001/MF-TurbineMonitor](https://github.com/fengtianxi001/MF-TurbineMonitor) - 🍪  一个大型涡轮扇叶风力发电机数据大屏案例
+
+*   [xy-sea/blog](https://github.com/xy-sea/blog) - 博客：前端知识体系、前端监控、性能优化、原理探索、面经等
+
+*   [anan1213095357/Blueprint](https://github.com/anan1213095357/Blueprint) -
+
+*   [ecomfe/fontmin-app](https://github.com/ecomfe/fontmin-app) - fontmin as an OS X, Linux and Windows app
+
+*   [dev-zuo/chatgpt-node-vue3](https://github.com/dev-zuo/chatgpt-node-vue3) - Vue3 + Node.js 调用 OpenAI API 实现 chatgpt、生成图片 demo
+
+*   [dev-zuo/zuo-deploy](https://github.com/dev-zuo/zuo-deploy) - 基于 Vue3 + Node.js 的轻量 Linux 操作面板，支持简单实时终端、自动化部署、持续集成、Nginx 配置管理/操作、Https 证书管理等。
+
+*   [tzy13755126023/tzy13755126023.github.io](https://github.com/tzy13755126023/tzy13755126023.github.io) -
+
+*   [wanglin2/markdown\_editor\_sync\_scroll\_demo](https://github.com/wanglin2/markdown_editor_sync_scroll_demo) - Markdown编辑器精确同步滚动demo
+
+*   [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡设计、可视化、标签、编辑器、设计器、报表、流程图、试卷、SVG、物联网、小票、打印、套打
+
+*   [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.
+
+*   [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
+
+*   [sunzsh/st-html-demo](https://github.com/sunzsh/st-html-demo) -
+
+*   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
+
+*   [it-andy-hou/fq](https://github.com/it-andy-hou/fq) - :earth\_americas: :statue\_of\_liberty: 翻墙软件不完全汇总
+
+*   [Thobian/typora-plugins-win-img](https://github.com/Thobian/typora-plugins-win-img) - 解决windows，typora不支持粘贴自动上传图片到服务的问题。
 
 ## miscellaneous
 
@@ -913,10 +975,6 @@
 
 *   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 
-*   [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
-
-*   [MisterTaki/vue-table-with-tree-grid](https://github.com/MisterTaki/vue-table-with-tree-grid) - A table (with tree-grid) component for Vue.js 2.0. (Its style extends @iView)
-
 ## Shell
 
 *   [Netflixxp/N1HK1dabao](https://github.com/Netflixxp/N1HK1dabao) - 项目为自动打包N1和HK1（s905x3）盒子的固件，请勿fork，因为fork无法获取最新的固件，请收藏短网址https://jcnf.xyz/gj 获取最新固件版本
@@ -947,22 +1005,6 @@
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
-## Rust
-
-*   [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
-
-*   [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-
-*   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-
-*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-
 ## Java
 
 *   [DWHengr/linyu-server](https://github.com/DWHengr/linyu-server) - im system server
@@ -972,48 +1014,6 @@
 *   [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-
-## HTML
-
-*   [formkit/drag-and-drop](https://github.com/formkit/drag-and-drop) -
-
-*   [Sunny-117/tiny-anything](https://github.com/Sunny-117/tiny-anything) - 🚀 Explore the source code of the front-end library and implement a super mini version 前端轮子库，包含框架及其周边生态、工具链、插件迷你源码实现
-
-*   [qwd/Icons](https://github.com/qwd/Icons) - 和风天气开源图标字体库 Open source weather icons && fonts for QWeather
-
-*   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）
-
-*   [pandaoh/js-xxx](https://github.com/pandaoh/js-xxx) - \[ http://x.biugle.cn ] Fed JavaScript Function Library. 前端 JavaScript 常用函数/工具/方法库，支持按需引入，方便抽离工具类等常用方法。
-
-*   [fengtianxi001/MF-TurbineMonitor](https://github.com/fengtianxi001/MF-TurbineMonitor) - 🍪  一个大型涡轮扇叶风力发电机数据大屏案例
-
-*   [xy-sea/blog](https://github.com/xy-sea/blog) - 博客：前端知识体系、前端监控、性能优化、原理探索、面经等
-
-*   [anan1213095357/Blueprint](https://github.com/anan1213095357/Blueprint) -
-
-*   [ecomfe/fontmin-app](https://github.com/ecomfe/fontmin-app) - fontmin as an OS X, Linux and Windows app
-
-*   [dev-zuo/chatgpt-node-vue3](https://github.com/dev-zuo/chatgpt-node-vue3) - Vue3 + Node.js 调用 OpenAI API 实现 chatgpt、生成图片 demo
-
-*   [dev-zuo/zuo-deploy](https://github.com/dev-zuo/zuo-deploy) - 基于 Vue3 + Node.js 的轻量 Linux 操作面板，支持简单实时终端、自动化部署、持续集成、Nginx 配置管理/操作、Https 证书管理等。
-
-*   [tzy13755126023/tzy13755126023.github.io](https://github.com/tzy13755126023/tzy13755126023.github.io) -
-
-*   [wanglin2/markdown\_editor\_sync\_scroll\_demo](https://github.com/wanglin2/markdown_editor_sync_scroll_demo) - Markdown编辑器精确同步滚动demo
-
-*   [xinglie/report-designer](https://github.com/xinglie/report-designer) - ⚡设计、可视化、标签、编辑器、设计器、报表、流程图、试卷、SVG、物联网、小票、打印、套打
-
-*   [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.
-
-*   [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
-
-*   [sunzsh/st-html-demo](https://github.com/sunzsh/st-html-demo) -
-
-*   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
-
-*   [it-andy-hou/fq](https://github.com/it-andy-hou/fq) - :earth\_americas: :statue\_of\_liberty: 翻墙软件不完全汇总
-
-*   [Thobian/typora-plugins-win-img](https://github.com/Thobian/typora-plugins-win-img) - 解决windows，typora不支持粘贴自动上传图片到服务的问题。
 
 ## C++
 
