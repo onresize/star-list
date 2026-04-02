@@ -9,13 +9,13 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
-*   [Go](#go)
 *   [Swift](#swift)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
@@ -34,6 +34,24 @@
 *   [Smarty](#smarty)
 *   [Less](#less)
 *   [Thanks](#thanks)
+
+## Go
+
+*   [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
+
+*   [ratel-online/server](https://github.com/ratel-online/server) - 多人命令行在线斗地主，德州扑克！
+
+*   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
+
+*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
 ## TypeScript
 
@@ -589,22 +607,6 @@
 
 *   [xrkffgg/Kvue](https://github.com/xrkffgg/Kvue) - 📚 Keep coding
 
-## Go
-
-*   [ratel-online/server](https://github.com/ratel-online/server) - 多人命令行在线斗地主，德州扑克！
-
-*   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-
-*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
-
-*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-
 ## Swift
 
 *   [leminlimez/Pocket-Poster](https://github.com/leminlimez/Pocket-Poster) - Custom PosterBoard Wallpapers for iOS 17-26.1
@@ -972,8 +974,6 @@
 *   [protobi/js-xlsx](https://github.com/protobi/js-xlsx) - XLSX / XLSM / XLSB (Excel 2007+ Spreadsheet) / ODS parser and writer
 
 *   [rndme/download](https://github.com/rndme/download) - file downloading using client-side javascript
-
-*   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 
 ## Shell
 
