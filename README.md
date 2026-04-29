@@ -589,8 +589,6 @@
 
 *   [hahaj/vue-hkvideo](https://github.com/hahaj/vue-hkvideo) - 海康视频web插件v1.5.2组件封装
 
-*   [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的、全端兼容的、高性能UI框架
-
 *   [cloudhao1999/cloud-app-admin](https://github.com/cloudhao1999/cloud-app-admin) - cloud-app-admin 使用了最新的 Vue3.2 + Vite3 + Element-Plus + TypeScript 等主流技术开发。
 
 *   [likaia/chat-system](https://github.com/likaia/chat-system) - 本项目是一个在线聊天系统，最大程度的还原了Mac客户端QQ。
@@ -912,6 +910,8 @@
 *   [marcelduran/yslow](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
 
 *   [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline) - A polyfill of ScrollTimeline.
+
+*   [dcloudio/uni-ui](https://github.com/dcloudio/uni-ui) - 基于uni-app的、全端兼容的、高性能UI框架
 
 *   [noiron/socket-message-push](https://github.com/noiron/socket-message-push) -
 
