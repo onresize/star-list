@@ -17,14 +17,14 @@
 *   [HTML](#html)
 *   [Vue](#vue)
 *   [Swift](#swift)
-*   [JavaScript](#javascript)
+*   [Dockerfile](#dockerfile)
 *   [Shell](#shell)
 *   [C#](#c)
+*   [JavaScript](#javascript)
 *   [Roff](#roff)
 *   [Java](#java)
 *   [C++](#c-1)
 *   [C](#c-2)
-*   [Dockerfile](#dockerfile)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [CSS](#css)
@@ -615,9 +615,39 @@
 
 *   [leminlimez/Pocket-Poster](https://github.com/leminlimez/Pocket-Poster) - Custom PosterBoard Wallpapers for iOS 17-26.1
 
-## JavaScript
+## Dockerfile
 
-*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
+
+## Shell
+
+*   [Netflixxp/N1HK1dabao](https://github.com/Netflixxp/N1HK1dabao) - 项目为自动打包N1和HK1（s905x3）盒子的固件，请勿fork，因为fork无法获取最新的固件，请收藏短网址https://jcnf.xyz/gj 获取最新固件版本
+
+*   [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
+
+*   [lihaoyun6/capXDR-plugins](https://github.com/lihaoyun6/capXDR-plugins) - capXDR截图模板仓库 / Plugins for capXDR
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
+
+## C\#
+
+*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support Mihomo
+
+*   [HMBSbige/ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - Ship of Theseus
+
+*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+*   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+
+*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+
+*   [Albert-W/Folder-locker](https://github.com/Albert-W/Folder-locker) - It a tiny tool to lock your folder without compression.
+
+## JavaScript
 
 *   [CcSimple/vue-plugin-hiprint](https://github.com/CcSimple/vue-plugin-hiprint) - hiprint for Vue2/Vue3 ⚡打印、打印设计、可视化设计器、报表设计、元素编辑、可视化打印编辑
 
@@ -975,32 +1005,6 @@
 
 *   [protobi/js-xlsx](https://github.com/protobi/js-xlsx) - XLSX / XLSM / XLSB (Excel 2007+ Spreadsheet) / ODS parser and writer
 
-## Shell
-
-*   [Netflixxp/N1HK1dabao](https://github.com/Netflixxp/N1HK1dabao) - 项目为自动打包N1和HK1（s905x3）盒子的固件，请勿fork，因为fork无法获取最新的固件，请收藏短网址https://jcnf.xyz/gj 获取最新固件版本
-
-*   [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
-
-*   [lihaoyun6/capXDR-plugins](https://github.com/lihaoyun6/capXDR-plugins) - capXDR截图模板仓库 / Plugins for capXDR
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
-
-## C\#
-
-*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support Mihomo
-
-*   [HMBSbige/ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - Ship of Theseus
-
-*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
-
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-*   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
-
-*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-
-*   [Albert-W/Folder-locker](https://github.com/Albert-W/Folder-locker) - It a tiny tool to lock your folder without compression.
-
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
@@ -1032,10 +1036,6 @@
 *   [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca) - Jessibuca是一款开源的纯H5直播流播放器
 
 *   [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
-
-## Dockerfile
-
-*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 
 ## Dart
 
