@@ -37,6 +37,8 @@
 
 ## TypeScript
 
+*   [icebear0828/codex-proxy](https://github.com/icebear0828/codex-proxy) - OpenAI-compatible proxy for ChatGPT Codex Responses API
+
 *   [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 
 *   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
@@ -1002,8 +1004,6 @@
 *   [dailymotion/hls.js](https://github.com/dailymotion/hls.js) - JavaScript HLS client using Media Source Extension
 
 *   [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
-
-*   [protobi/js-xlsx](https://github.com/protobi/js-xlsx) - XLSX / XLSM / XLSB (Excel 2007+ Spreadsheet) / ODS parser and writer
 
 ## Roff
 
