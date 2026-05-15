@@ -101,7 +101,7 @@
 
 *   [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
 
-*   [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+*   [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
 
 *   [GreatAuk/plugin-web-update-notification](https://github.com/GreatAuk/plugin-web-update-notification) - Tiny lib, Detect webpage updates and notify user to reload. support Vite、Umijs、Rspack、 Webpack.
 
@@ -274,6 +274,8 @@
 *   [JoeshuTT/version-polling](https://github.com/JoeshuTT/version-polling) - 一个用于实时检测 web 应用更新的 JavaScript 库
 
 *   [pd4d10/console-importer](https://github.com/pd4d10/console-importer) - Easily import JS and CSS resources from Chrome console.
+
+*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
 *   [imzbf/md-editor-v3](https://github.com/imzbf/md-editor-v3) - Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
 
@@ -610,8 +612,6 @@
 *   [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin jpa版本：前端源码，项目基于 Spring Boot 2.7.18 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统
 
 *   [javaSunson/vuevideo-player](https://github.com/javaSunson/vuevideo-player) - Vue集成videojs.可以直接播放m3u8
-
-*   [xrkffgg/Kvue](https://github.com/xrkffgg/Kvue) - 📚 Keep coding
 
 ## Swift
 
