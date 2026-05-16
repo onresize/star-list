@@ -157,7 +157,7 @@
 
 *   [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 
-*   [oh-my-live2d/oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d) - 应用于浏览器环境且开箱即用的Live2D组件, 它支持所有版本的Live2D模型, 使用方式足够简单并且高可自定义, 可以快速为您的个人网站添加Live2D看板娘, 使您的个人网站变得更具有特色.
+*   [hacxy/l2d-widget](https://github.com/hacxy/l2d-widget) - Drop a Live2D character onto any web page. One function call, zero framework dependencies.
 
 *   [lblblong/nat-utools](https://github.com/lblblong/nat-utools) - 内网穿透 - uTools 插件
 
