@@ -9,6 +9,7 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -19,12 +20,11 @@
 *   [Swift](#swift)
 *   [Dockerfile](#dockerfile)
 *   [Shell](#shell)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [JavaScript](#javascript)
 *   [Roff](#roff)
 *   [Java](#java)
-*   [C++](#c-1)
-*   [C](#c-2)
+*   [C++](#c-2)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [CSS](#css)
@@ -34,6 +34,14 @@
 *   [Go Template](#go-template)
 *   [Less](#less)
 *   [Thanks](#thanks)
+
+## C
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca) - Jessibuca是一款开源的纯H5直播流播放器
+
+*   [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
 
 ## TypeScript
 
@@ -1005,8 +1013,6 @@
 
 *   [dailymotion/hls.js](https://github.com/dailymotion/hls.js) - JavaScript HLS client using Media Source Extension
 
-*   [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
-
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
@@ -1032,12 +1038,6 @@
 *   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
 *   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-## C
-
-*   [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca) - Jessibuca是一款开源的纯H5直播流播放器
-
-*   [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
 
 ## Dart
 
