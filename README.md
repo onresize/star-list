@@ -113,7 +113,7 @@
 
 *   [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
 
-*   [GreatAuk/plugin-web-update-notification](https://github.com/GreatAuk/plugin-web-update-notification) - Tiny lib, Detect webpage updates and notify user to reload. support Vite、Umijs、Rspack、 Webpack.
+*   [GreatAuk/plugin-web-update-notification](https://github.com/GreatAuk/plugin-web-update-notification) - Tiny lib, Detect webpage updates and notify user to reload. support Vite、Umijs、Rspack、Webpack、Nuxt.
 
 *   [milesj/emojibase](https://github.com/milesj/emojibase) - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.
 
@@ -136,6 +136,8 @@
 *   [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 
 *   [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
+
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 *   [holynova/gushi\_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 
@@ -1018,8 +1020,6 @@
 ## Java
 
 *   [DWHengr/linyu-server](https://github.com/DWHengr/linyu-server) - im system server
-
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 *   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
